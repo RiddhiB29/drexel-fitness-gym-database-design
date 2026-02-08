@@ -1,0 +1,501 @@
+ID,GENDER,BIRTHDAY,AGE,ABONOMENT_TYPE,VISIT_PER_WEEK,DAYS_PER_WEEK,ATTEND_GROUP_LESSON,FAV_GROUP_LESSON,AVG_TIME_CHECK_IN,AVG_TIME_CHECK_OUT,AVG_TIME_IN_GYM,DRINK_ABO,FAV_DRINK,PERSONAL_TRAINING,NAME_PERSONAL_TRAINER,USES_SAUNA,BRANCH
+1,Female,18-Apr-1997,27,Premium,4,"Mon, Sat, Tue, Wed",TRUE,"Kickboxen, BodyPump, Zumba",19:31:00,21:27:00,116,FALSE,,FALSE,,TRUE,Allentown
+3,Male,30-Mar-1983,41,Premium,1,Sat,TRUE,XCore,8:29:00,10:32:00,123,TRUE,"berry_boost, lemon",TRUE,Mike,FALSE,Philadelphia
+4,Male,12-Apr-1980,44,Premium,3,"Sat, Tue, Wed",FALSE,,9:54:00,11:33:00,99,TRUE,passion_fruit,TRUE,Mike,TRUE,Philadelphia
+6,Female,29-Jun-2009,15,Standard,1,Mon,FALSE,,17:19:00,20:19:00,180,FALSE,,FALSE,,TRUE,Philadelphia
+7,Male,07-Aug-1994,30,Premium,3,"Sat, Thu, Wed",TRUE,"LesMiles, BodyPump",19:46:00,20:48:00,62,FALSE,,FALSE,,FALSE,Pittsburgh
+8,Male,13-Nov-2003,20,Standard,2,"Mon, Wed",TRUE,"Yoga, XCore",17:45:00,19:20:00,95,TRUE,coconut_pineapple,FALSE,,TRUE,Allentown
+9,Male,28-Jul-1978,46,Premium,3,"Sat, Sun, Thu",TRUE,BodyPump,9:45:00,11:17:00,92,TRUE,"orange, lemon",TRUE,Mike,FALSE,Allentown
+10,Female,06-May-2000,24,Premium,1,Mon,FALSE,,13:05:00,15:29:00,144,FALSE,,TRUE,Jeffrey,TRUE,Harrisburg
+11,Male,11-Jul-1983,41,Standard,1,Fri,FALSE,,13:50:00,14:26:00,36,FALSE,,TRUE,Hanna,FALSE,Harrisburg
+12,Male,19-Sep-1997,27,Premium,3,"Fri, Thu, Wed",TRUE,"Pilates, Zumba, XCore",10:12:00,10:45:00,33,TRUE,passion_fruit,TRUE,Mike,TRUE,Pittsburgh
+14,Female,21-Mar-1989,35,Premium,3,"Mon, Tue, Wed",FALSE,,19:50:00,20:51:00,61,TRUE,black_currant,FALSE,,FALSE,Pittsburgh
+15,Female,01-Oct-1989,35,Premium,1,Sat,FALSE,,20:12:00,22:37:00,145,TRUE,"orange, black_currant",TRUE,Mike,FALSE,Philadelphia
+16,Female,20-Dec-1987,36,Standard,4,"Mon, Thu, Tue, Wed",TRUE,"Spinning, Zumba, XCore",17:28:00,18:29:00,61,FALSE,,FALSE,,FALSE,Philadelphia
+17,Male,17-Dec-1986,37,Premium,3,"Fri, Sat, Sun",FALSE,,9:25:00,12:06:00,161,FALSE,,TRUE,Jeffrey,TRUE,Harrisburg
+19,Female,29-May-1986,38,Standard,1,Tue,TRUE,Pilates,10:01:00,12:48:00,167,TRUE,orange,TRUE,Hanna,TRUE,Harrisburg
+20,Male,13-Sep-1991,33,Premium,2,"Sat, Wed",TRUE,"BodyPump, Zumba, Pilates",13:55:00,16:24:00,149,FALSE,,FALSE,,FALSE,Pittsburgh
+21,Female,31-Dec-1997,26,Premium,2,"Fri, Mon",FALSE,,8:19:00,10:45:00,146,FALSE,,TRUE,Hanna,FALSE,Philadelphia
+22,Male,29-Oct-1997,26,Premium,3,"Fri, Mon, Sat",TRUE,"Yoga, BodyBalance, LesMiles",15:06:00,17:40:00,154,TRUE,lemon,FALSE,,TRUE,Philadelphia
+23,Female,22-Oct-2010,13,Standard,2,"Mon, Tue",TRUE,HIT,20:56:00,23:36:00,160,TRUE,"passion_fruit, orange",TRUE,Mike,FALSE,Pittsburgh
+24,Male,24-Jan-2010,14,Premium,3,"Sat, Tue, Wed",FALSE,,14:34:00,16:33:00,119,TRUE,"lemon, coconut_pineapple",TRUE,Jeffrey,TRUE,Allentown
+25,Female,04-Oct-2008,16,Premium,1,Fri,FALSE,,8:42:00,10:34:00,112,FALSE,,FALSE,,FALSE,Pittsburgh
+26,Male,17-Jun-1989,35,Standard,1,Fri,TRUE,"BodyBalance, Zumba, Yoga",13:12:00,14:54:00,102,TRUE,coconut_pineapple,TRUE,Chantal,FALSE,Pittsburgh
+27,Male,31-Mar-2005,19,Premium,3,"Fri, Sun, Wed",TRUE,Zumba,15:01:00,16:59:00,118,TRUE,"berry_boost, passion_fruit",FALSE,,FALSE,Allentown
+28,Male,10-Apr-1992,32,Standard,5,"Fri, Sat, Sun, Tue, Wed",TRUE,"BodyBalance, Pilates, Running",19:41:00,21:35:00,114,TRUE,berry_boost,TRUE,Chantal,FALSE,Harrisburg
+29,Female,21-Jan-1997,27,Premium,1,Wed,FALSE,,11:25:00,12:56:00,91,TRUE,orange,FALSE,,TRUE,Allentown
+30,Female,04-Nov-2002,21,Premium,3,"Fri, Mon, Thu",TRUE,"Spinning, BodyPump, Zumba",20:15:00,21:36:00,81,TRUE,"orange, coconut_pineapple",FALSE,,TRUE,Harrisburg
+33,Female,26-Feb-1982,42,Premium,3,"Sat, Sun, Tue",TRUE,"LesMiles, HIT",10:23:00,12:01:00,98,FALSE,,TRUE,Chantal,TRUE,Philadelphia
+34,Female,07-Dec-1976,47,Premium,2,"Mon, Sat",TRUE,"XCore, Running, BodyBalance",14:42:00,16:08:00,86,FALSE,,TRUE,Hanna,TRUE,Philadelphia
+35,Male,06-Mar-2004,20,Premium,5,"Mon, Sun, Thu, Tue, Wed",FALSE,,18:15:00,20:54:00,159,FALSE,,TRUE,Mike,TRUE,Harrisburg
+36,Male,09-Mar-1990,34,Standard,3,"Sat, Sun, Tue",TRUE,XCore,13:39:00,16:20:00,161,TRUE,orange,FALSE,,TRUE,Harrisburg
+37,Female,18-Mar-1981,43,Standard,5,"Fri, Sat, Sun, Tue, Wed",FALSE,,9:02:00,10:21:00,79,FALSE,,FALSE,,FALSE,Harrisburg
+38,Female,01-Nov-1983,40,Premium,2,"Sat, Thu",FALSE,,8:39:00,10:37:00,118,FALSE,,FALSE,,FALSE,Philadelphia
+39,Male,05-Jul-1980,44,Premium,1,Wed,FALSE,,20:43:00,22:58:00,135,TRUE,"coconut_pineapple, berry_boost",FALSE,,FALSE,Philadelphia
+40,Female,19-Jan-2006,18,Premium,2,"Mon, Tue",TRUE,LesMiles,10:26:00,12:13:00,107,TRUE,"passion_fruit, black_currant",FALSE,,TRUE,Allentown
+41,Female,11-Jun-2008,16,Premium,3,"Mon, Sun, Tue",FALSE,,16:04:00,17:51:00,107,TRUE,coconut_pineapple,TRUE,Hanna,TRUE,Allentown
+42,Female,08-Jul-1989,35,Standard,1,Sun,FALSE,,9:38:00,10:36:00,58,FALSE,,FALSE,,FALSE,Harrisburg
+43,Female,26-Jun-1995,29,Premium,1,Thu,TRUE,BodyBalance,10:25:00,12:04:00,99,TRUE,"black_currant, lemon",TRUE,Chantal,FALSE,Harrisburg
+44,Female,05-Apr-1996,28,Standard,1,Sun,FALSE,,11:49:00,14:11:00,142,TRUE,"coconut_pineapple, passion_fruit",TRUE,Hanna,TRUE,Allentown
+45,Male,19-Jan-1976,48,Premium,2,"Tue, Wed",FALSE,,9:57:00,12:35:00,158,FALSE,,TRUE,Hanna,TRUE,Harrisburg
+46,Female,22-May-1981,43,Standard,4,"Fri, Mon, Sat, Tue",TRUE,Spinning,18:41:00,21:36:00,175,FALSE,,TRUE,Hanna,FALSE,Harrisburg
+47,Male,04-Mar-1989,35,Standard,3,"Sun, Tue, Wed",FALSE,,15:02:00,16:29:00,87,FALSE,,FALSE,,FALSE,Allentown
+48,Male,15-Nov-1997,26,Premium,5,"Fri, Mon, Sun, Thu, Tue",TRUE,Yoga,16:29:00,18:45:00,136,FALSE,,TRUE,Jeffrey,TRUE,Pittsburgh
+49,Female,23-Oct-1975,48,Premium,3,"Fri, Thu, Tue",TRUE,"Yoga, BodyBalance",11:56:00,14:13:00,137,FALSE,,TRUE,Chantal,TRUE,Pittsburgh
+50,Female,29-Dec-1979,44,Premium,2,"Sat, Tue",TRUE,"BodyPump, Zumba",8:54:00,11:35:00,161,TRUE,"black_currant, passion_fruit",FALSE,,TRUE,Pittsburgh
+51,Male,17-Jul-1979,45,Standard,3,"Mon, Sun, Thu",FALSE,,9:43:00,11:16:00,93,TRUE,"coconut_pineapple, passion_fruit",FALSE,,TRUE,Philadelphia
+52,Male,21-Apr-1996,28,Premium,2,"Sat, Wed",TRUE,"BodyPump, Yoga",20:58:00,22:20:00,82,FALSE,,FALSE,,TRUE,Philadelphia
+53,Female,17-Jul-2004,20,Premium,2,"Sun, Thu",TRUE,"BodyBalance, Running",9:26:00,10:35:00,69,FALSE,,FALSE,,FALSE,Philadelphia
+54,Female,27-Nov-1980,43,Standard,4,"Fri, Mon, Sat, Thu",TRUE,Pilates,20:36:00,23:17:00,161,TRUE,"orange, berry_boost",TRUE,Mike,FALSE,Pittsburgh
+55,Male,04-Jan-2000,24,Standard,2,"Sun, Thu",TRUE,"Spinning, Kickboxen, LesMiles",15:49:00,18:31:00,162,TRUE,black_currant,TRUE,Chantal,TRUE,Philadelphia
+56,Male,26-Jul-2002,22,Standard,3,"Fri, Sun, Tue",FALSE,,17:13:00,18:24:00,71,FALSE,,FALSE,,TRUE,Allentown
+57,Female,12-Jun-2001,23,Standard,3,"Sat, Thu, Wed",FALSE,,8:36:00,11:18:00,162,FALSE,,FALSE,,FALSE,Allentown
+58,Male,30-Dec-1977,46,Premium,5,"Fri, Mon, Sat, Thu, Tue",TRUE,"BodyBalance, BodyPump",12:19:00,12:49:00,30,FALSE,,TRUE,Chantal,TRUE,Philadelphia
+59,Male,11-Jul-2007,17,Premium,2,"Fri, Tue",TRUE,Kickboxen,10:40:00,12:06:00,86,FALSE,,FALSE,,TRUE,Allentown
+60,Female,20-Aug-1988,36,Standard,2,"Sat, Thu",TRUE,"XCore, Zumba",19:38:00,21:40:00,122,TRUE,orange,TRUE,Chantal,TRUE,Allentown
+61,Female,08-May-1977,47,Premium,3,"Mon, Sun, Wed",FALSE,,18:30:00,20:17:00,107,FALSE,,TRUE,Chantal,FALSE,Philadelphia
+62,Female,13-May-1995,29,Standard,3,"Sat, Tue, Wed",FALSE,,10:28:00,11:36:00,68,FALSE,,TRUE,Chantal,TRUE,Philadelphia
+63,Male,10-Mar-1994,30,Standard,3,"Fri, Sun, Thu",FALSE,,17:22:00,17:57:00,35,TRUE,"passion_fruit, coconut_pineapple",FALSE,,TRUE,Pittsburgh
+64,Female,16-May-2002,22,Premium,3,"Fri, Sat, Sun",FALSE,,10:41:00,11:38:00,57,TRUE,"lemon, berry_boost",TRUE,Hanna,TRUE,Pittsburgh
+65,Female,21-Nov-1982,41,Standard,2,"Sun, Tue",FALSE,,13:55:00,16:22:00,147,FALSE,,FALSE,,TRUE,Pittsburgh
+66,Female,27-Mar-1979,45,Premium,4,"Fri, Thu, Tue, Wed",FALSE,,13:06:00,13:54:00,48,FALSE,,FALSE,,TRUE,Allentown
+67,Female,26-Apr-2002,22,Premium,1,Sun,TRUE,Running,8:18:00,11:08:00,170,FALSE,,FALSE,,FALSE,Pittsburgh
+68,Male,16-Jul-2004,20,Standard,5,"Mon, Sat, Sun, Thu, Wed",TRUE,Spinning,13:04:00,13:37:00,33,TRUE,"berry_boost, coconut_pineapple",TRUE,Mike,TRUE,Philadelphia
+69,Male,12-Dec-1990,33,Premium,1,Wed,TRUE,Zumba,9:04:00,9:47:00,43,TRUE,passion_fruit,FALSE,,FALSE,Pittsburgh
+70,Female,01-Aug-1988,36,Premium,3,"Fri, Sun, Tue",FALSE,,11:11:00,13:56:00,165,FALSE,,FALSE,,TRUE,Pittsburgh
+71,Male,21-Sep-1994,30,Premium,5,"Fri, Mon, Sat, Sun, Tue",TRUE,BodyPump,13:04:00,13:58:00,54,FALSE,,TRUE,Hanna,TRUE,Philadelphia
+72,Male,13-Mar-2007,17,Premium,1,Wed,FALSE,,10:30:00,13:27:00,177,TRUE,black_currant,TRUE,Mike,TRUE,Philadelphia
+73,Male,31-Dec-1988,35,Premium,2,"Mon, Tue",FALSE,,17:06:00,18:39:00,93,TRUE,berry_boost,TRUE,Chantal,FALSE,Harrisburg
+74,Male,16-Dec-1995,28,Standard,2,"Fri, Sun",FALSE,,20:17:00,23:03:00,166,TRUE,passion_fruit,FALSE,,TRUE,Allentown
+75,Female,30-Nov-1996,27,Standard,5,"Fri, Mon, Sat, Thu, Tue",FALSE,,9:57:00,12:22:00,145,FALSE,,FALSE,,FALSE,Allentown
+76,Male,09-Jun-2004,20,Premium,1,Sun,FALSE,,15:33:00,17:01:00,88,FALSE,,TRUE,Mike,TRUE,Pittsburgh
+77,Female,19-Apr-2007,17,Premium,2,"Mon, Tue",FALSE,,15:54:00,16:46:00,52,FALSE,,TRUE,Hanna,FALSE,Harrisburg
+78,Male,24-Oct-1990,33,Premium,2,"Mon, Sun",TRUE,"Zumba, Spinning, BodyBalance",16:16:00,18:03:00,107,TRUE,berry_boost,TRUE,Mike,FALSE,Allentown
+79,Female,24-Apr-1981,43,Standard,5,"Fri, Sat, Thu, Tue, Wed",TRUE,XCore,12:44:00,15:44:00,180,FALSE,,FALSE,,FALSE,Philadelphia
+80,Female,23-Sep-1988,36,Standard,2,"Fri, Tue",TRUE,"Yoga, LesMiles, Spinning",18:19:00,20:02:00,103,FALSE,,TRUE,Jeffrey,TRUE,Harrisburg
+81,Male,15-Oct-1978,45,Standard,2,"Mon, Sat",FALSE,,12:35:00,15:18:00,163,TRUE,berry_boost,TRUE,Mike,TRUE,Philadelphia
+82,Male,06-Nov-1981,42,Standard,3,"Sun, Thu, Wed",TRUE,"Running, Kickboxen",18:55:00,21:00:00,125,FALSE,,FALSE,,FALSE,Harrisburg
+83,Male,02-Apr-1995,29,Premium,1,Mon,FALSE,,8:33:00,9:57:00,84,TRUE,coconut_pineapple,FALSE,,FALSE,Pittsburgh
+84,Male,30-Jul-2006,18,Standard,3,"Sun, Thu, Tue",TRUE,"Yoga, HIT",9:15:00,10:04:00,49,TRUE,"black_currant, lemon",FALSE,,FALSE,Harrisburg
+85,Female,27-Apr-1992,32,Premium,2,"Sat, Sun",TRUE,HIT,19:07:00,22:00:00,173,FALSE,,FALSE,,FALSE,Allentown
+86,Female,09-Feb-1997,27,Standard,3,"Mon, Sun, Tue",TRUE,"BodyPump, BodyBalance, XCore",20:29:00,21:35:00,66,FALSE,,TRUE,Chantal,FALSE,Philadelphia
+87,Male,27-Jun-1977,47,Premium,3,"Fri, Sat, Tue",TRUE,"Kickboxen, HIT, BodyPump",12:51:00,14:37:00,106,FALSE,,TRUE,Chantal,TRUE,Pittsburgh
+88,Female,05-Oct-2008,16,Premium,2,"Sat, Sun",FALSE,,11:29:00,13:03:00,94,TRUE,"passion_fruit, black_currant",FALSE,,TRUE,Harrisburg
+89,Female,21-Dec-1984,39,Standard,4,"Fri, Mon, Sat, Wed",TRUE,Yoga,10:34:00,11:27:00,53,FALSE,,FALSE,,TRUE,Pittsburgh
+90,Female,24-Aug-1978,46,Standard,1,Sat,FALSE,,11:13:00,13:19:00,126,TRUE,"lemon, berry_boost",FALSE,,TRUE,Philadelphia
+92,Male,17-Aug-1993,31,Standard,1,Sun,TRUE,Running,14:37:00,15:25:00,48,FALSE,,TRUE,Chantal,FALSE,Philadelphia
+94,Female,03-Jun-1983,41,Standard,2,"Tue, Wed",TRUE,"BodyPump, Spinning, HIT",16:43:00,18:46:00,123,TRUE,coconut_pineapple,TRUE,Chantal,TRUE,Allentown
+96,Male,10-Apr-1984,40,Standard,1,Sat,FALSE,,10:28:00,13:25:00,177,FALSE,,FALSE,,TRUE,Pittsburgh
+98,Male,18-Sep-2005,19,Premium,2,"Sat, Tue",FALSE,,16:57:00,18:54:00,117,TRUE,coconut_pineapple,TRUE,Jeffrey,FALSE,Allentown
+99,Female,23-Mar-1990,34,Premium,2,"Fri, Mon",FALSE,,9:35:00,12:00:00,145,FALSE,,TRUE,Hanna,TRUE,Philadelphia
+100,Female,08-Feb-2003,21,Premium,3,"Mon, Sat, Wed",FALSE,,8:34:00,10:00:00,86,FALSE,,FALSE,,TRUE,Philadelphia
+101,Male,18-May-1980,44,Standard,3,"Sat, Sun, Wed",TRUE,HIT,10:11:00,11:30:00,79,TRUE,black_currant,TRUE,Jeffrey,TRUE,Harrisburg
+102,Female,15-Feb-2000,24,Standard,3,"Fri, Mon, Sun",TRUE,BodyPump,17:42:00,20:02:00,140,FALSE,,TRUE,Mike,FALSE,Allentown
+104,Female,20-Dec-1976,47,Premium,2,"Sat, Tue",FALSE,,13:19:00,14:50:00,91,TRUE,coconut_pineapple,TRUE,Mike,TRUE,Philadelphia
+105,Female,15-Mar-1986,38,Premium,1,Mon,TRUE,"BodyPump, Zumba",9:51:00,10:33:00,42,TRUE,"passion_fruit, berry_boost",TRUE,Mike,TRUE,Allentown
+106,Male,28-Aug-2012,12,Premium,3,"Fri, Sun, Thu",TRUE,"Pilates, LesMiles",19:57:00,21:28:00,91,TRUE,"orange, black_currant",FALSE,,FALSE,Harrisburg
+107,Female,22-Jul-2003,21,Standard,2,"Fri, Mon",FALSE,,20:13:00,21:48:00,95,TRUE,coconut_pineapple,FALSE,,FALSE,Philadelphia
+108,Female,05-Mar-2002,22,Standard,3,"Sat, Sun, Thu",TRUE,"Running, Kickboxen, BodyBalance",19:52:00,20:46:00,54,FALSE,,TRUE,Chantal,FALSE,Philadelphia
+109,Female,27-Mar-1991,33,Premium,1,Thu,FALSE,,14:02:00,15:29:00,87,FALSE,,FALSE,,FALSE,Philadelphia
+111,Female,01-Feb-1994,30,Standard,3,"Sat, Sun, Wed",TRUE,"HIT, LesMiles",17:43:00,18:23:00,40,FALSE,,FALSE,,FALSE,Philadelphia
+112,Male,06-Mar-2009,15,Standard,3,"Fri, Sun, Wed",TRUE,"Pilates, BodyBalance, HIT",16:33:00,19:09:00,156,FALSE,,FALSE,,FALSE,Philadelphia
+113,Female,31-Jul-1977,47,Premium,1,Sun,FALSE,,16:23:00,18:07:00,104,FALSE,,TRUE,Chantal,FALSE,Harrisburg
+114,Female,18-Jun-1994,30,Premium,3,"Sun, Thu, Tue",FALSE,,13:51:00,16:13:00,142,FALSE,,TRUE,Jeffrey,TRUE,Pittsburgh
+115,Female,16-Sep-2010,14,Premium,3,"Sat, Sun, Tue",FALSE,,14:36:00,15:11:00,35,FALSE,,TRUE,Jeffrey,FALSE,Harrisburg
+116,Male,17-Mar-1991,33,Premium,4,"Fri, Thu, Tue, Wed",FALSE,,19:08:00,22:06:00,178,TRUE,orange,FALSE,,TRUE,Philadelphia
+118,Male,28-Dec-1983,40,Standard,5,"Sat, Sun, Thu, Tue, Wed",FALSE,,8:23:00,9:19:00,56,FALSE,,FALSE,,FALSE,Pittsburgh
+120,Female,06-May-1984,40,Standard,3,"Fri, Tue, Wed",FALSE,,14:55:00,17:18:00,143,TRUE,passion_fruit,TRUE,Chantal,TRUE,Allentown
+122,Female,02-Jul-1981,43,Premium,1,Fri,TRUE,Kickboxen,20:09:00,21:57:00,108,FALSE,,FALSE,,TRUE,Philadelphia
+124,Female,29-Jul-2010,14,Premium,3,"Fri, Sat, Wed",FALSE,,14:40:00,15:53:00,73,FALSE,,TRUE,Hanna,FALSE,Pittsburgh
+125,Male,20-Apr-2010,14,Standard,3,"Sat, Sun, Tue",FALSE,,14:09:00,16:34:00,145,FALSE,,TRUE,Jeffrey,FALSE,Harrisburg
+126,Male,16-Oct-2009,14,Standard,3,"Mon, Sat, Thu",FALSE,,8:40:00,10:15:00,95,FALSE,,TRUE,Chantal,TRUE,Allentown
+127,Female,16-Dec-2004,19,Standard,3,"Fri, Thu, Tue",FALSE,,10:58:00,12:22:00,84,FALSE,,TRUE,Hanna,TRUE,Philadelphia
+128,Female,27-Feb-1992,32,Premium,3,"Fri, Sun, Thu",FALSE,,14:23:00,15:48:00,85,TRUE,"passion_fruit, orange",FALSE,,FALSE,Philadelphia
+129,Male,30-Mar-1977,47,Premium,1,Sun,TRUE,"Running, BodyBalance",12:24:00,13:14:00,50,FALSE,,TRUE,Hanna,TRUE,Allentown
+130,Male,27-May-1981,43,Premium,2,"Sat, Tue",FALSE,,19:40:00,22:32:00,172,FALSE,,TRUE,Chantal,FALSE,Philadelphia
+131,Male,17-Nov-1989,34,Standard,3,"Fri, Thu, Tue",FALSE,,15:41:00,17:04:00,83,TRUE,"lemon, passion_fruit",TRUE,Hanna,FALSE,Pittsburgh
+132,Male,19-Mar-2003,21,Premium,1,Wed,FALSE,,18:11:00,20:51:00,160,TRUE,orange,TRUE,Hanna,TRUE,Pittsburgh
+133,Male,26-Apr-1997,27,Premium,2,"Fri, Tue",TRUE,Zumba,11:35:00,13:34:00,119,TRUE,orange,FALSE,,TRUE,Harrisburg
+134,Female,20-Aug-1993,31,Premium,5,"Fri, Mon, Sat, Thu, Wed",TRUE,"Spinning, BodyPump",9:31:00,11:06:00,95,FALSE,,TRUE,Mike,TRUE,Pittsburgh
+135,Female,19-May-2003,21,Standard,2,"Sun, Thu",FALSE,,13:05:00,14:45:00,100,TRUE,passion_fruit,TRUE,Mike,FALSE,Philadelphia
+136,Female,30-Jun-2009,15,Standard,2,"Mon, Tue",FALSE,,16:51:00,19:45:00,174,TRUE,coconut_pineapple,FALSE,,FALSE,Pittsburgh
+137,Female,18-Sep-2004,20,Premium,3,"Sat, Sun, Thu",FALSE,,10:32:00,11:09:00,37,FALSE,,FALSE,,TRUE,Pittsburgh
+138,Male,10-Apr-1988,36,Standard,1,Tue,FALSE,,20:55:00,22:44:00,109,TRUE,lemon,FALSE,,TRUE,Allentown
+139,Female,07-Apr-1993,31,Standard,5,"Fri, Sun, Thu, Tue, Wed",FALSE,,19:28:00,20:10:00,42,FALSE,,FALSE,,FALSE,Harrisburg
+140,Female,25-Feb-2010,14,Standard,2,"Mon, Wed",TRUE,"Spinning, Kickboxen, Zumba",10:33:00,12:57:00,144,TRUE,"lemon, orange",FALSE,,TRUE,Philadelphia
+141,Male,28-May-1984,40,Premium,3,"Mon, Thu, Tue",TRUE,"LesMiles, HIT",19:59:00,21:04:00,65,FALSE,,TRUE,Mike,FALSE,Harrisburg
+142,Female,07-Mar-2002,22,Standard,5,"Fri, Sat, Sun, Tue, Wed",TRUE,"Running, BodyPump, XCore",8:13:00,9:46:00,93,FALSE,,FALSE,,TRUE,Harrisburg
+143,Female,19-Mar-2008,16,Premium,3,"Fri, Sun, Wed",FALSE,,17:21:00,18:46:00,85,FALSE,,TRUE,Chantal,FALSE,Harrisburg
+144,Male,11-Mar-1975,49,Premium,3,"Fri, Thu, Wed",TRUE,"XCore, Zumba, LesMiles",20:30:00,21:24:00,54,TRUE,passion_fruit,TRUE,Jeffrey,TRUE,Harrisburg
+145,Female,21-Jun-2010,14,Premium,3,"Sat, Sun, Wed",FALSE,,10:11:00,11:56:00,105,TRUE,"lemon, passion_fruit",FALSE,,TRUE,Harrisburg
+146,Female,20-Aug-2010,14,Standard,5,"Fri, Sat, Sun, Thu, Tue",TRUE,"XCore, Yoga, LesMiles",20:23:00,21:30:00,67,TRUE,"black_currant, passion_fruit",TRUE,Mike,TRUE,Harrisburg
+147,Male,17-Mar-1988,36,Standard,3,"Fri, Sat, Tue",TRUE,"Running, Yoga, Pilates",18:19:00,19:47:00,88,FALSE,,FALSE,,FALSE,Harrisburg
+148,Male,22-Mar-1988,36,Premium,2,"Mon, Sat",TRUE,"BodyPump, Kickboxen, Zumba",9:08:00,11:19:00,131,TRUE,"orange, berry_boost",TRUE,Mike,FALSE,Pittsburgh
+149,Male,29-Jun-1998,26,Standard,2,"Sat, Thu",FALSE,,17:57:00,20:08:00,131,FALSE,,FALSE,,FALSE,Philadelphia
+150,Male,27-Jun-2005,19,Premium,1,Sat,FALSE,,16:10:00,17:20:00,70,FALSE,,TRUE,Mike,TRUE,Pittsburgh
+151,Male,02-Feb-1995,29,Premium,2,"Fri, Mon",TRUE,"Pilates, HIT",20:15:00,22:05:00,110,FALSE,,FALSE,,TRUE,Harrisburg
+152,Male,25-Sep-1997,27,Premium,2,"Thu, Wed",FALSE,,20:44:00,21:57:00,73,FALSE,,TRUE,Hanna,TRUE,Harrisburg
+153,Male,22-Jul-1977,47,Premium,2,"Fri, Tue",TRUE,"Running, BodyPump",16:41:00,18:02:00,81,TRUE,"passion_fruit, orange",TRUE,Chantal,TRUE,Allentown
+154,Male,16-Mar-1985,39,Standard,2,"Tue, Wed",TRUE,"Kickboxen, BodyPump",11:18:00,13:28:00,130,TRUE,"lemon, black_currant",TRUE,Mike,FALSE,Pittsburgh
+155,Male,27-Aug-1977,47,Standard,1,Fri,FALSE,,14:41:00,15:21:00,40,TRUE,orange,TRUE,Hanna,FALSE,Philadelphia
+156,Female,01-Feb-2004,20,Premium,2,"Fri, Sat",FALSE,,18:54:00,19:37:00,43,TRUE,passion_fruit,TRUE,Chantal,TRUE,Philadelphia
+157,Female,30-Aug-2004,20,Standard,4,"Fri, Thu, Tue, Wed",FALSE,,11:51:00,14:21:00,150,TRUE,passion_fruit,TRUE,Jeffrey,FALSE,Pittsburgh
+158,Male,02-Feb-2002,22,Standard,2,"Fri, Sat",FALSE,,14:12:00,16:43:00,151,TRUE,orange,TRUE,Mike,TRUE,Philadelphia
+159,Female,03-Jun-2002,22,Standard,3,"Sat, Sun, Wed",TRUE,"Kickboxen, HIT",17:57:00,19:46:00,109,FALSE,,TRUE,Hanna,FALSE,Harrisburg
+160,Female,19-Mar-2000,24,Premium,3,"Mon, Thu, Wed",TRUE,"BodyBalance, Kickboxen, Spinning",15:17:00,16:04:00,47,FALSE,,TRUE,Hanna,TRUE,Allentown
+161,Female,22-Dec-2006,17,Standard,3,"Sat, Thu, Tue",TRUE,XCore,15:41:00,16:58:00,77,TRUE,"berry_boost, lemon",TRUE,Chantal,FALSE,Pittsburgh
+162,Male,27-Jan-1995,29,Standard,1,Sun,FALSE,,17:00:00,18:33:00,93,TRUE,lemon,FALSE,,TRUE,Allentown
+163,Male,24-Nov-1987,36,Premium,3,"Sat, Thu, Wed",FALSE,,8:42:00,11:31:00,169,TRUE,berry_boost,TRUE,Jeffrey,TRUE,Allentown
+164,Male,29-Jan-2004,20,Standard,5,"Mon, Sat, Thu, Tue, Wed",FALSE,,17:41:00,20:22:00,161,FALSE,,FALSE,,FALSE,Philadelphia
+165,Male,22-May-1995,29,Standard,2,"Fri, Sat",TRUE,Zumba,14:45:00,17:41:00,176,FALSE,,TRUE,Chantal,TRUE,Philadelphia
+166,Male,19-Sep-1992,32,Premium,3,"Sat, Tue, Wed",FALSE,,20:34:00,21:40:00,66,FALSE,,TRUE,Chantal,TRUE,Allentown
+167,Female,15-Oct-1981,42,Premium,4,"Fri, Mon, Thu, Tue",TRUE,Running,9:55:00,10:59:00,64,FALSE,,FALSE,,TRUE,Pittsburgh
+168,Male,05-Oct-2010,14,Standard,3,"Mon, Sun, Thu",TRUE,"Running, BodyBalance, Kickboxen",12:27:00,14:16:00,109,FALSE,,FALSE,,TRUE,Allentown
+169,Female,28-Nov-1988,35,Premium,3,"Fri, Thu, Tue",TRUE,"Kickboxen, Spinning, BodyPump",13:32:00,16:19:00,167,FALSE,,FALSE,,FALSE,Harrisburg
+170,Male,29-Jul-1981,43,Standard,3,"Fri, Sun, Tue",FALSE,,12:12:00,13:08:00,56,TRUE,"passion_fruit, lemon",TRUE,Mike,FALSE,Pittsburgh
+171,Female,22-Aug-1987,37,Standard,1,Sun,FALSE,,16:39:00,19:05:00,146,TRUE,lemon,TRUE,Hanna,FALSE,Philadelphia
+172,Female,05-Jul-1975,49,Standard,5,"Sat, Sun, Thu, Tue, Wed",TRUE,Pilates,8:15:00,8:50:00,35,FALSE,,FALSE,,FALSE,Pittsburgh
+173,Male,27-Jul-1977,47,Standard,2,"Sun, Thu",FALSE,,16:55:00,19:13:00,138,TRUE,black_currant,FALSE,,TRUE,Harrisburg
+174,Male,17-Mar-1975,49,Premium,1,Sat,FALSE,,11:21:00,12:46:00,85,FALSE,,FALSE,,TRUE,Pittsburgh
+175,Male,22-Sep-2005,19,Standard,2,"Mon, Tue",TRUE,Yoga,14:01:00,15:56:00,115,FALSE,,FALSE,,FALSE,Harrisburg
+176,Male,24-Feb-1976,48,Standard,4,"Fri, Thu, Tue, Wed",FALSE,,9:34:00,10:11:00,37,FALSE,,FALSE,,FALSE,Allentown
+177,Female,29-Jan-2001,23,Premium,3,"Mon, Sun, Thu",FALSE,,9:56:00,11:20:00,84,TRUE,"berry_boost, coconut_pineapple",TRUE,Chantal,FALSE,Pittsburgh
+178,Male,18-Nov-2000,23,Premium,4,"Fri, Mon, Thu, Wed",FALSE,,11:02:00,11:44:00,42,FALSE,,TRUE,Chantal,FALSE,Allentown
+179,Female,25-Nov-2010,13,Standard,2,"Mon, Tue",FALSE,,17:27:00,19:12:00,105,FALSE,,FALSE,,FALSE,Philadelphia
+180,Male,20-Jun-1976,48,Premium,3,"Fri, Sat, Thu",TRUE,"Kickboxen, Running, LesMiles",8:33:00,10:13:00,100,TRUE,passion_fruit,TRUE,Jeffrey,TRUE,Pittsburgh
+2,Female,18-Sep-1977,47,Standard,3,"Mon, Sat, Wed",FALSE,,19:31:00,20:19:00,48,FALSE,,TRUE,Chantal,FALSE,Pittsburgh
+5,Male,10-Sep-1980,44,Standard,2,"Thu, Wed",TRUE,"Running, Yoga, Zumba",8:29:00,9:19:00,50,FALSE,,TRUE,Mike,FALSE,Allentown
+13,Female,22-Apr-1994,30,Standard,2,"Sun, Wed",TRUE,"XCore, HIT, Running",17:04:00,19:42:00,158,TRUE,passion_fruit,FALSE,,TRUE,Pittsburgh
+31,Male,04-Mar-1988,36,Premium,3,"Sun, Thu, Wed",FALSE,,10:01:00,12:11:00,130,FALSE,,TRUE,Jeffrey,TRUE,Harrisburg
+91,Female,08-Mar-2003,21,Premium,3,"Mon, Sat, Sun",FALSE,,13:04:00,14:21:00,77,TRUE,berry_boost,FALSE,,FALSE,Harrisburg
+93,Female,06-Jun-1984,40,Standard,4,"Mon, Sat, Sun, Wed",TRUE,"BodyPump, Spinning, Pilates",9:55:00,10:43:00,48,FALSE,,FALSE,,TRUE,Philadelphia
+95,Female,10-May-2012,12,Standard,3,"Fri, Thu, Wed",TRUE,BodyBalance,10:10:00,12:50:00,160,TRUE,berry_boost,FALSE,,TRUE,Philadelphia
+103,Male,06-Nov-1990,33,Standard,5,"Fri, Sat, Sun, Thu, Wed",TRUE,"Pilates, BodyBalance",10:29:00,11:18:00,49,TRUE,lemon,TRUE,Chantal,FALSE,Allentown
+119,Male,07-Jul-1978,46,Premium,3,"Mon, Sun, Wed",TRUE,"HIT, BodyPump",13:30:00,14:37:00,67,FALSE,,TRUE,Jeffrey,FALSE,Allentown
+123,Female,28-Oct-1990,33,Standard,3,"Mon, Sat, Thu",FALSE,,9:46:00,12:17:00,151,FALSE,,FALSE,,FALSE,Allentown
+237,Female,09-Jan-2005,19,Premium,2,"Tue, Wed",TRUE,Spinning,10:32:00,12:03:00,91,TRUE,coconut_pineapple,TRUE,Jeffrey,TRUE,Allentown
+239,Male,27-Oct-2003,20,Standard,3,"Fri, Mon, Thu",TRUE,"Zumba, Yoga, Pilates",17:30:00,19:17:00,107,FALSE,,TRUE,Jeffrey,TRUE,Philadelphia
+254,Male,27-Oct-2003,20,Standard,4,"Fri, Mon, Sun, Wed",FALSE,,17:12:00,18:19:00,67,FALSE,,FALSE,,TRUE,Pittsburgh
+324,Female,14-Jul-1994,30,Standard,3,"Fri, Thu, Wed",TRUE,Pilates,19:16:00,20:15:00,59,FALSE,,TRUE,Chantal,TRUE,Harrisburg
+329,Male,30-Jun-1991,33,Premium,4,"Fri, Sat, Sun, Tue",TRUE,Running,9:15:00,10:04:00,49,FALSE,,FALSE,,TRUE,Philadelphia
+338,Male,04-Oct-1997,27,Premium,3,"Mon, Thu, Wed",TRUE,"Zumba, HIT",10:06:00,11:38:00,92,TRUE,"coconut_pineapple, passion_fruit",FALSE,,FALSE,Allentown
+406,Female,11-Jun-1998,26,Standard,4,"Mon, Sat, Thu, Wed",TRUE,"Pilates, Spinning",13:03:00,15:39:00,156,FALSE,,TRUE,Chantal,TRUE,Pittsburgh
+408,Male,23-Dec-2001,22,Premium,1,Fri,FALSE,,11:31:00,12:13:00,42,TRUE,coconut_pineapple,TRUE,Chantal,TRUE,Allentown
+413,Male,26-Oct-1993,30,Premium,1,Sun,TRUE,LesMiles,8:38:00,10:08:00,90,FALSE,,TRUE,Mike,TRUE,Philadelphia
+420,Male,27-Feb-1978,46,Premium,2,"Fri, Tue",FALSE,,11:27:00,13:39:00,132,TRUE,"coconut_pineapple, black_currant",TRUE,Hanna,FALSE,Philadelphia
+437,Male,23-Aug-1997,27,Premium,2,"Fri, Thu",TRUE,LesMiles,16:29:00,19:08:00,159,TRUE,coconut_pineapple,FALSE,,TRUE,Harrisburg
+497,Female,19-Sep-2012,12,Premium,2,"Sat, Sun",FALSE,,8:05:00,10:14:00,129,FALSE,,FALSE,,FALSE,Allentown
+532,Male,28-Sep-1976,48,Premium,4,"Mon, Sun, Thu, Tue",TRUE,BodyPump,16:04:00,18:33:00,149,FALSE,,TRUE,Chantal,FALSE,Harrisburg
+648,Female,22-Sep-1998,26,Standard,1,Sat,TRUE,"Kickboxen, BodyPump",12:44:00,13:40:00,56,FALSE,,FALSE,,FALSE,Allentown
+722,Male,12-Jun-2005,19,Standard,1,Sun,FALSE,,11:29:00,14:26:00,177,TRUE,"orange, coconut_pineapple",TRUE,Jeffrey,FALSE,Harrisburg
+732,Female,20-Jun-1991,33,Premium,4,"Fri, Sat, Thu, Wed",FALSE,,13:30:00,14:17:00,47,TRUE,"orange, coconut_pineapple",TRUE,Hanna,TRUE,Philadelphia
+742,Male,27-Aug-1997,27,Standard,1,Sun,FALSE,,18:02:00,19:46:00,104,TRUE,"coconut_pineapple, black_currant",FALSE,,FALSE,Harrisburg
+758,Female,05-Nov-1997,26,Standard,5,"Sat, Sun, Thu, Tue, Wed",FALSE,,15:16:00,17:20:00,124,FALSE,,TRUE,Jeffrey,FALSE,Pittsburgh
+770,Male,01-Sep-1997,27,Premium,2,"Fri, Sun",FALSE,,17:22:00,18:50:00,88,TRUE,"coconut_pineapple, orange",TRUE,Chantal,FALSE,Allentown
+808,Female,05-May-1997,27,Premium,4,"Mon, Sun, Thu, Wed",FALSE,,16:32:00,18:42:00,130,TRUE,orange,TRUE,Hanna,FALSE,Pittsburgh
+820,Female,13-Jul-2009,15,Standard,3,"Fri, Sun, Thu",FALSE,,14:33:00,16:48:00,135,FALSE,,FALSE,,TRUE,Harrisburg
+824,Female,21-Jul-1986,38,Standard,5,"Fri, Sat, Sun, Thu, Tue",FALSE,,17:59:00,20:54:00,175,TRUE,passion_fruit,FALSE,,TRUE,Pittsburgh
+898,Female,27-Oct-1987,36,Premium,1,Fri,FALSE,,11:05:00,12:28:00,83,TRUE,"orange, black_currant",FALSE,,TRUE,Pittsburgh
+900,Female,08-Jul-2000,24,Standard,3,"Fri, Sat, Wed",FALSE,,19:13:00,20:02:00,49,FALSE,,TRUE,Mike,TRUE,Allentown
+181,Male,20-Dec-1996,27,Premium,5,"Mon, Sat, Sun, Thu, Tue",TRUE,"Kickboxen, XCore",10:50:00,13:38:00,168,TRUE,"lemon, black_currant",FALSE,,TRUE,Philadelphia
+182,Female,16-Feb-2010,14,Standard,3,"Mon, Sun, Wed",TRUE,XCore,9:01:00,11:57:00,176,FALSE,,TRUE,Chantal,TRUE,Allentown
+183,Male,14-Jul-2010,14,Premium,1,Fri,FALSE,,13:06:00,14:29:00,83,FALSE,,FALSE,,TRUE,Allentown
+184,Male,16-Oct-2006,17,Standard,1,Mon,FALSE,,17:58:00,20:04:00,126,FALSE,,TRUE,Hanna,FALSE,Philadelphia
+185,Male,18-Sep-1985,39,Standard,2,"Mon, Tue",TRUE,"Running, XCore",9:20:00,9:52:00,32,TRUE,berry_boost,FALSE,,FALSE,Allentown
+186,Female,24-Mar-1975,49,Standard,3,"Fri, Sun, Wed",FALSE,,17:42:00,19:00:00,78,TRUE,passion_fruit,TRUE,Mike,TRUE,Philadelphia
+187,Male,17-Apr-2012,12,Standard,5,"Fri, Sat, Sun, Thu, Wed",TRUE,"Pilates, Kickboxen, BodyPump",19:49:00,22:15:00,146,TRUE,"lemon, orange",TRUE,Mike,FALSE,Allentown
+188,Female,28-Feb-1987,37,Premium,1,Sat,TRUE,Yoga,8:21:00,8:55:00,34,TRUE,"lemon, coconut_pineapple",FALSE,,FALSE,Allentown
+189,Male,12-Nov-1987,36,Premium,2,"Fri, Tue",TRUE,"Spinning, XCore",11:28:00,14:14:00,166,FALSE,,FALSE,,TRUE,Allentown
+190,Male,08-Sep-2011,13,Standard,4,"Sat, Sun, Thu, Tue",FALSE,,14:47:00,15:21:00,34,FALSE,,FALSE,,FALSE,Allentown
+191,Male,23-Oct-1992,31,Premium,2,"Mon, Wed",FALSE,,13:48:00,16:42:00,174,FALSE,,FALSE,,FALSE,Allentown
+192,Female,11-Jul-1985,39,Standard,4,"Mon, Sat, Sun, Thu",FALSE,,17:07:00,17:55:00,48,FALSE,,FALSE,,TRUE,Allentown
+193,Female,09-Jun-2012,12,Premium,3,"Sun, Thu, Tue",TRUE,"Zumba, BodyPump, XCore",13:57:00,15:10:00,73,FALSE,,FALSE,,TRUE,Allentown
+194,Female,15-Aug-2001,23,Premium,1,Tue,FALSE,,16:54:00,19:49:00,175,TRUE,"passion_fruit, berry_boost",FALSE,,FALSE,Harrisburg
+195,Male,24-Apr-1979,45,Premium,2,"Mon, Wed",FALSE,,11:23:00,13:41:00,138,TRUE,"black_currant, coconut_pineapple",FALSE,,TRUE,Pittsburgh
+196,Male,09-Feb-1985,39,Premium,5,"Fri, Mon, Sat, Thu, Wed",FALSE,,20:01:00,21:08:00,67,TRUE,lemon,TRUE,Jeffrey,FALSE,Philadelphia
+197,Male,26-Mar-2010,14,Standard,2,"Mon, Tue",FALSE,,13:53:00,16:06:00,133,TRUE,"coconut_pineapple, black_currant",TRUE,Mike,FALSE,Harrisburg
+198,Male,05-Aug-1994,30,Premium,3,"Fri, Sun, Wed",TRUE,"BodyPump, Yoga",13:00:00,15:43:00,163,TRUE,coconut_pineapple,TRUE,Jeffrey,TRUE,Philadelphia
+199,Female,06-Jan-2009,15,Premium,3,"Mon, Thu, Tue",FALSE,,9:55:00,11:07:00,72,TRUE,coconut_pineapple,TRUE,Jeffrey,TRUE,Harrisburg
+200,Male,31-Aug-2012,12,Standard,1,Tue,FALSE,,15:47:00,16:28:00,41,TRUE,"orange, passion_fruit",TRUE,Jeffrey,TRUE,Allentown
+201,Male,29-Sep-1978,46,Standard,4,"Fri, Mon, Sat, Wed",TRUE,"HIT, XCore, Kickboxen",13:31:00,15:47:00,136,TRUE,"black_currant, coconut_pineapple",TRUE,Mike,FALSE,Pittsburgh
+202,Male,25-May-1975,49,Premium,4,"Mon, Sat, Tue, Wed",FALSE,,8:21:00,8:52:00,31,TRUE,black_currant,FALSE,,FALSE,Philadelphia
+203,Female,20-Dec-1980,43,Premium,2,"Mon, Sun",FALSE,,18:32:00,20:54:00,142,TRUE,"passion_fruit, coconut_pineapple",TRUE,Chantal,TRUE,Harrisburg
+204,Male,18-Feb-2005,19,Premium,2,"Thu, Wed",TRUE,LesMiles,17:13:00,19:26:00,133,TRUE,orange,TRUE,Jeffrey,FALSE,Allentown
+205,Male,29-May-1982,42,Premium,3,"Fri, Sat, Thu",FALSE,,9:57:00,12:50:00,173,TRUE,lemon,TRUE,Chantal,FALSE,Harrisburg
+206,Male,21-Mar-1978,46,Standard,1,Sun,TRUE,Zumba,18:06:00,20:49:00,163,TRUE,"berry_boost, black_currant",FALSE,,FALSE,Philadelphia
+207,Male,20-Jun-2006,18,Standard,3,"Fri, Mon, Thu",TRUE,"Running, BodyPump",11:47:00,14:00:00,133,FALSE,,TRUE,Chantal,FALSE,Allentown
+208,Male,02-Jan-1983,41,Premium,1,Thu,TRUE,"Running, HIT",11:28:00,13:10:00,102,TRUE,"lemon, coconut_pineapple",TRUE,Jeffrey,TRUE,Harrisburg
+209,Male,11-Sep-2005,19,Premium,4,"Fri, Mon, Tue, Wed",FALSE,,19:07:00,20:06:00,59,TRUE,coconut_pineapple,TRUE,Hanna,FALSE,Philadelphia
+210,Male,21-Aug-2007,17,Premium,2,"Fri, Sun",FALSE,,17:44:00,18:20:00,36,TRUE,lemon,TRUE,Chantal,FALSE,Pittsburgh
+211,Female,26-Mar-1997,27,Standard,2,"Mon, Tue",TRUE,Pilates,9:10:00,11:36:00,146,FALSE,,TRUE,Chantal,TRUE,Harrisburg
+212,Male,22-Jan-1999,25,Premium,3,"Sat, Sun, Tue",FALSE,,17:21:00,18:17:00,56,FALSE,,FALSE,,TRUE,Philadelphia
+213,Male,18-Jul-2001,23,Premium,2,"Mon, Sun",TRUE,"XCore, Zumba",12:58:00,15:46:00,168,FALSE,,FALSE,,FALSE,Pittsburgh
+214,Female,01-Jan-1989,35,Standard,1,Wed,FALSE,,8:34:00,9:27:00,53,FALSE,,TRUE,Chantal,FALSE,Allentown
+215,Female,14-Dec-1985,38,Standard,3,"Fri, Thu, Wed",TRUE,Yoga,8:17:00,10:38:00,141,FALSE,,FALSE,,TRUE,Allentown
+216,Male,11-Apr-1975,49,Premium,3,"Fri, Mon, Wed",FALSE,,12:37:00,13:15:00,38,TRUE,lemon,TRUE,Mike,FALSE,Allentown
+217,Male,16-Jun-1990,34,Standard,1,Sun,FALSE,,12:42:00,13:21:00,39,TRUE,coconut_pineapple,TRUE,Jeffrey,TRUE,Philadelphia
+218,Female,12-Jan-1978,46,Premium,3,"Sun, Thu, Wed",TRUE,BodyPump,18:01:00,18:36:00,35,TRUE,"coconut_pineapple, passion_fruit",FALSE,,FALSE,Harrisburg
+219,Male,18-Jun-1979,45,Standard,5,"Fri, Mon, Sun, Tue, Wed",TRUE,"Spinning, BodyBalance, BodyPump",14:59:00,16:59:00,120,FALSE,,FALSE,,TRUE,Harrisburg
+220,Male,12-Nov-1987,36,Premium,5,"Fri, Mon, Sun, Thu, Tue",FALSE,,20:57:00,22:15:00,78,TRUE,lemon,TRUE,Mike,FALSE,Pittsburgh
+221,Male,05-Mar-1979,45,Premium,2,"Sun, Tue",FALSE,,12:13:00,14:47:00,154,TRUE,passion_fruit,TRUE,Chantal,TRUE,Allentown
+222,Male,08-Apr-1975,49,Premium,3,"Fri, Sun, Thu",TRUE,"Pilates, XCore, Spinning",20:01:00,22:34:00,153,FALSE,,TRUE,Mike,FALSE,Harrisburg
+223,Male,05-Oct-2005,19,Standard,5,"Fri, Mon, Sun, Thu, Tue",FALSE,,20:23:00,21:52:00,89,TRUE,coconut_pineapple,FALSE,,FALSE,Philadelphia
+224,Female,30-Jul-2000,24,Standard,2,"Fri, Mon",FALSE,,20:41:00,22:29:00,108,FALSE,,FALSE,,FALSE,Philadelphia
+225,Male,30-Sep-2000,24,Standard,3,"Fri, Mon, Sun",FALSE,,20:08:00,22:44:00,156,TRUE,orange,FALSE,,FALSE,Philadelphia
+226,Male,30-Jul-1993,31,Standard,1,Thu,FALSE,,15:01:00,17:43:00,162,FALSE,,FALSE,,FALSE,Pittsburgh
+227,Female,01-Oct-1976,48,Premium,3,"Mon, Sat, Tue",TRUE,"XCore, BodyPump",20:37:00,21:48:00,71,FALSE,,TRUE,Jeffrey,TRUE,Allentown
+228,Male,05-Mar-2007,17,Premium,1,Mon,TRUE,"Spinning, HIT",19:05:00,21:55:00,170,TRUE,"berry_boost, orange",TRUE,Chantal,FALSE,Philadelphia
+229,Male,26-Mar-1993,31,Premium,5,"Sat, Sun, Thu, Tue, Wed",FALSE,,20:39:00,21:35:00,56,FALSE,,FALSE,,FALSE,Pittsburgh
+230,Male,22-Oct-2001,22,Standard,3,"Fri, Sun, Wed",TRUE,Yoga,16:31:00,18:39:00,128,FALSE,,FALSE,,FALSE,Allentown
+231,Male,23-Nov-1986,37,Premium,3,"Fri, Sat, Sun",FALSE,,17:53:00,20:14:00,141,FALSE,,FALSE,,TRUE,Harrisburg
+232,Male,24-Aug-1985,39,Standard,5,"Fri, Mon, Sat, Thu, Wed",TRUE,"XCore, Pilates",15:16:00,17:15:00,119,TRUE,lemon,TRUE,Mike,FALSE,Philadelphia
+233,Female,29-Sep-2010,14,Standard,3,"Sat, Sun, Tue",FALSE,,8:34:00,10:49:00,135,FALSE,,FALSE,,TRUE,Harrisburg
+234,Female,10-Sep-2005,19,Standard,1,Sun,FALSE,,20:26:00,21:45:00,79,FALSE,,FALSE,,TRUE,Pittsburgh
+235,Female,21-Jul-1997,27,Standard,4,"Sun, Thu, Tue, Wed",FALSE,,11:49:00,14:25:00,156,TRUE,"lemon, black_currant",TRUE,Hanna,FALSE,Harrisburg
+236,Female,08-Apr-1989,35,Standard,5,"Fri, Sat, Thu, Tue, Wed",TRUE,BodyPump,15:45:00,18:43:00,178,FALSE,,FALSE,,FALSE,Harrisburg
+240,Male,03-Jan-2005,19,Premium,4,"Sat, Sun, Tue, Wed",TRUE,"Kickboxen, Running",15:49:00,17:10:00,81,TRUE,passion_fruit,FALSE,,FALSE,Harrisburg
+241,Female,31-Oct-1981,42,Premium,2,"Mon, Wed",FALSE,,11:03:00,13:34:00,151,TRUE,passion_fruit,TRUE,Hanna,FALSE,Harrisburg
+242,Male,02-Aug-2006,18,Premium,1,Wed,FALSE,,17:38:00,18:10:00,32,FALSE,,TRUE,Mike,TRUE,Pittsburgh
+243,Female,16-Aug-1975,49,Premium,1,Sun,FALSE,,13:58:00,14:35:00,37,TRUE,berry_boost,TRUE,Mike,FALSE,Pittsburgh
+244,Female,11-Oct-2007,17,Premium,5,"Fri, Mon, Sat, Sun, Wed",TRUE,Yoga,13:50:00,14:29:00,39,TRUE,lemon,TRUE,Hanna,TRUE,Allentown
+245,Male,06-Aug-1997,27,Standard,1,Mon,TRUE,"Kickboxen, BodyPump, Zumba",12:11:00,14:52:00,161,FALSE,,TRUE,Jeffrey,FALSE,Pittsburgh
+246,Female,17-Sep-2000,24,Premium,4,"Sun, Thu, Tue, Wed",FALSE,,9:12:00,11:17:00,125,FALSE,,FALSE,,FALSE,Pittsburgh
+247,Male,19-Apr-1987,37,Standard,4,"Fri, Sat, Thu, Wed",TRUE,"BodyBalance, Running, Yoga",18:44:00,20:56:00,132,TRUE,coconut_pineapple,FALSE,,TRUE,Philadelphia
+248,Female,17-Aug-2000,24,Premium,1,Sun,FALSE,,14:59:00,17:17:00,138,FALSE,,TRUE,Mike,TRUE,Allentown
+249,Female,14-Nov-1995,28,Premium,5,"Fri, Mon, Sat, Sun, Wed",TRUE,"Zumba, HIT",18:00:00,19:56:00,116,FALSE,,FALSE,,FALSE,Philadelphia
+250,Male,27-Aug-2006,18,Standard,3,"Fri, Mon, Sun",FALSE,,13:26:00,16:15:00,169,FALSE,,FALSE,,FALSE,Pittsburgh
+251,Male,21-Jun-2006,18,Standard,2,"Fri, Thu",TRUE,"Yoga, Pilates, BodyPump",8:05:00,9:23:00,78,TRUE,black_currant,FALSE,,FALSE,Harrisburg
+253,Male,27-Oct-1983,40,Premium,2,"Fri, Tue",TRUE,"Yoga, HIT",14:33:00,15:40:00,67,TRUE,lemon,TRUE,Jeffrey,FALSE,Harrisburg
+255,Male,14-Apr-2003,21,Premium,1,Sun,TRUE,"Kickboxen, BodyBalance, LesMiles",14:34:00,15:04:00,30,TRUE,coconut_pineapple,TRUE,Mike,TRUE,Harrisburg
+256,Female,18-Dec-1985,38,Premium,1,Sat,TRUE,Pilates,17:37:00,18:39:00,62,FALSE,,TRUE,Mike,FALSE,Pittsburgh
+257,Male,28-Mar-1979,45,Standard,2,"Mon, Wed",TRUE,"XCore, HIT, Kickboxen",8:12:00,10:09:00,117,TRUE,"coconut_pineapple, black_currant",FALSE,,FALSE,Allentown
+258,Male,21-Dec-2001,22,Standard,2,"Sat, Thu",FALSE,,19:49:00,20:33:00,44,TRUE,"black_currant, passion_fruit",FALSE,,TRUE,Harrisburg
+259,Female,08-May-2007,17,Premium,5,"Fri, Sun, Thu, Tue, Wed",FALSE,,10:02:00,12:17:00,135,TRUE,lemon,TRUE,Chantal,FALSE,Harrisburg
+260,Female,24-May-1992,32,Standard,5,"Mon, Sat, Sun, Thu, Tue",FALSE,,8:20:00,10:44:00,144,TRUE,coconut_pineapple,FALSE,,FALSE,Philadelphia
+261,Male,02-Oct-1980,44,Standard,2,"Thu, Tue",FALSE,,12:01:00,14:07:00,126,FALSE,,FALSE,,TRUE,Philadelphia
+262,Female,27-May-1977,47,Premium,2,"Mon, Sat",TRUE,"Yoga, Pilates",8:39:00,9:38:00,59,TRUE,black_currant,TRUE,Chantal,TRUE,Pittsburgh
+263,Female,19-Mar-1981,43,Standard,1,Thu,FALSE,,8:17:00,9:08:00,51,FALSE,,TRUE,Jeffrey,TRUE,Pittsburgh
+264,Male,05-Jul-1976,48,Standard,5,"Fri, Mon, Sat, Sun, Thu",FALSE,,15:42:00,18:35:00,173,FALSE,,TRUE,Hanna,TRUE,Allentown
+265,Female,30-Jul-1992,32,Standard,5,"Fri, Sun, Thu, Tue, Wed",FALSE,,19:52:00,21:17:00,85,TRUE,black_currant,TRUE,Mike,TRUE,Pittsburgh
+266,Female,06-Feb-1987,37,Standard,3,"Mon, Tue, Wed",TRUE,"Zumba, BodyBalance",18:07:00,20:01:00,114,FALSE,,FALSE,,TRUE,Allentown
+267,Female,12-May-1988,36,Standard,5,"Fri, Mon, Sat, Sun, Tue",FALSE,,11:33:00,12:40:00,67,TRUE,coconut_pineapple,FALSE,,TRUE,Pittsburgh
+268,Male,03-Dec-2001,22,Premium,4,"Fri, Mon, Sat, Thu",FALSE,,18:08:00,20:37:00,149,FALSE,,TRUE,Mike,FALSE,Allentown
+269,Male,07-Oct-1987,37,Premium,2,"Fri, Thu",FALSE,,9:59:00,10:41:00,42,FALSE,,FALSE,,FALSE,Philadelphia
+270,Male,01-Mar-1985,39,Standard,3,"Sat, Thu, Wed",TRUE,"BodyPump, Running, Yoga",15:19:00,17:35:00,136,FALSE,,TRUE,Mike,TRUE,Pittsburgh
+271,Male,28-Dec-1976,47,Standard,3,"Fri, Mon, Sun",FALSE,,10:08:00,11:02:00,54,FALSE,,TRUE,Hanna,FALSE,Allentown
+272,Male,12-Jan-1975,49,Premium,2,"Fri, Tue",TRUE,Yoga,13:20:00,14:26:00,66,FALSE,,TRUE,Chantal,TRUE,Philadelphia
+273,Male,27-Dec-1996,27,Standard,2,"Sun, Thu",FALSE,,11:23:00,13:00:00,97,FALSE,,TRUE,Chantal,TRUE,Harrisburg
+274,Female,03-Apr-1980,44,Standard,2,"Fri, Sun",TRUE,"Pilates, Zumba, Running",19:30:00,22:04:00,154,FALSE,,FALSE,,FALSE,Philadelphia
+275,Male,09-Jun-2011,13,Standard,2,"Fri, Tue",FALSE,,9:38:00,10:11:00,33,FALSE,,FALSE,,TRUE,Harrisburg
+276,Male,02-Apr-2010,14,Standard,2,"Thu, Tue",TRUE,LesMiles,11:21:00,14:18:00,177,FALSE,,FALSE,,TRUE,Philadelphia
+277,Female,25-Apr-1999,25,Standard,2,"Thu, Wed",FALSE,,10:38:00,12:32:00,114,TRUE,coconut_pineapple,TRUE,Hanna,FALSE,Pittsburgh
+278,Male,03-Feb-1992,32,Premium,2,"Fri, Sun",TRUE,Yoga,13:19:00,14:52:00,93,TRUE,"lemon, black_currant",TRUE,Mike,TRUE,Pittsburgh
+279,Female,15-Oct-1994,29,Standard,4,"Fri, Mon, Sun, Wed",FALSE,,10:43:00,11:52:00,69,TRUE,lemon,TRUE,Hanna,FALSE,Harrisburg
+280,Male,24-Jan-1983,41,Standard,2,"Fri, Thu",TRUE,"Pilates, Yoga",10:29:00,12:37:00,128,TRUE,"coconut_pineapple, orange",TRUE,Chantal,TRUE,Pittsburgh
+281,Male,01-Jun-2003,21,Premium,2,"Fri, Mon",TRUE,"Pilates, XCore, Kickboxen",15:40:00,16:47:00,67,FALSE,,TRUE,Chantal,TRUE,Philadelphia
+282,Male,06-Jul-1999,25,Standard,5,"Mon, Sat, Sun, Thu, Wed",TRUE,"Zumba, BodyPump",12:25:00,13:40:00,75,TRUE,black_currant,FALSE,,TRUE,Allentown
+283,Female,16-Dec-2002,21,Premium,2,"Fri, Sat",TRUE,LesMiles,14:55:00,15:28:00,33,TRUE,berry_boost,TRUE,Mike,FALSE,Pittsburgh
+284,Female,21-Dec-2010,13,Standard,2,"Mon, Sat",FALSE,,12:52:00,14:03:00,71,FALSE,,FALSE,,FALSE,Pittsburgh
+285,Male,08-Jun-1976,48,Premium,4,"Mon, Sun, Thu, Wed",FALSE,,13:33:00,14:08:00,35,TRUE,lemon,FALSE,,FALSE,Harrisburg
+286,Male,23-Jan-2004,20,Premium,5,"Fri, Mon, Sat, Sun, Tue",FALSE,,20:16:00,21:52:00,96,TRUE,"black_currant, coconut_pineapple",TRUE,Mike,FALSE,Pittsburgh
+287,Male,07-Oct-1987,37,Premium,2,"Fri, Thu",TRUE,"BodyPump, Yoga",19:39:00,20:39:00,60,FALSE,,FALSE,,TRUE,Harrisburg
+288,Male,12-Jun-1982,42,Premium,5,"Fri, Mon, Sat, Thu, Tue",FALSE,,17:30:00,20:15:00,165,TRUE,coconut_pineapple,FALSE,,TRUE,Pittsburgh
+289,Female,19-Apr-2004,20,Premium,3,"Mon, Sat, Tue",TRUE,"Zumba, Kickboxen",8:53:00,11:11:00,138,FALSE,,TRUE,Mike,TRUE,Allentown
+290,Female,05-May-1998,26,Standard,2,"Sun, Tue",TRUE,"XCore, BodyPump",15:52:00,18:05:00,133,FALSE,,FALSE,,FALSE,Allentown
+291,Female,24-Apr-1982,42,Premium,5,"Fri, Sat, Sun, Thu, Wed",FALSE,,9:49:00,12:43:00,174,TRUE,berry_boost,FALSE,,TRUE,Philadelphia
+292,Male,26-Jul-2007,17,Standard,1,Fri,FALSE,,16:59:00,18:41:00,102,TRUE,"passion_fruit, black_currant",FALSE,,FALSE,Allentown
+293,Female,04-May-1998,26,Premium,1,Thu,TRUE,"Yoga, Kickboxen",16:31:00,17:47:00,76,TRUE,"lemon, passion_fruit",TRUE,Hanna,TRUE,Harrisburg
+294,Female,02-Sep-1983,41,Premium,1,Wed,TRUE,Yoga,13:14:00,15:34:00,140,FALSE,,FALSE,,FALSE,Philadelphia
+295,Male,09-Oct-1988,36,Standard,3,"Fri, Thu, Wed",FALSE,,15:28:00,17:57:00,149,TRUE,"coconut_pineapple, orange",FALSE,,FALSE,Philadelphia
+296,Female,30-Dec-2000,23,Standard,4,"Fri, Sun, Thu, Wed",FALSE,,10:17:00,12:21:00,124,TRUE,"lemon, passion_fruit",FALSE,,TRUE,Harrisburg
+297,Male,09-May-1994,30,Standard,5,"Fri, Mon, Sun, Thu, Wed",FALSE,,17:29:00,18:25:00,56,FALSE,,TRUE,Jeffrey,FALSE,Philadelphia
+298,Female,09-Apr-1990,34,Premium,2,"Mon, Sun",FALSE,,19:17:00,20:30:00,73,FALSE,,TRUE,Chantal,TRUE,Pittsburgh
+299,Female,27-Mar-1981,43,Premium,5,"Fri, Sat, Sun, Tue, Wed",FALSE,,12:31:00,14:11:00,100,TRUE,"orange, passion_fruit",TRUE,Mike,FALSE,Philadelphia
+300,Male,09-Jul-2011,13,Premium,3,"Mon, Sat, Wed",TRUE,"Spinning, XCore, LesMiles",14:53:00,15:55:00,62,FALSE,,FALSE,,FALSE,Allentown
+301,Female,14-Apr-2001,23,Premium,3,"Fri, Sat, Thu",TRUE,"Kickboxen, LesMiles, Yoga",13:06:00,14:35:00,89,TRUE,"coconut_pineapple, orange",TRUE,Chantal,FALSE,Pittsburgh
+302,Male,03-Jan-1979,45,Standard,3,"Fri, Tue, Wed",TRUE,BodyPump,12:48:00,15:24:00,156,FALSE,,TRUE,Jeffrey,TRUE,Harrisburg
+303,Female,23-Jan-1982,42,Standard,3,"Sun, Thu, Wed",FALSE,,13:32:00,14:56:00,84,FALSE,,TRUE,Hanna,TRUE,Allentown
+304,Male,28-Dec-1988,35,Standard,1,Sat,FALSE,,13:53:00,14:33:00,40,FALSE,,FALSE,,FALSE,Pittsburgh
+305,Male,02-Aug-1998,26,Standard,4,"Sat, Sun, Thu, Wed",TRUE,"Spinning, Running, LesMiles",8:48:00,10:35:00,107,FALSE,,FALSE,,FALSE,Allentown
+306,Male,28-Oct-2003,20,Standard,2,"Fri, Sun",TRUE,"Running, LesMiles, Yoga",11:47:00,14:10:00,143,TRUE,lemon,TRUE,Chantal,TRUE,Allentown
+307,Female,06-Apr-1992,32,Standard,3,"Mon, Sun, Wed",FALSE,,17:30:00,20:14:00,164,FALSE,,TRUE,Chantal,TRUE,Harrisburg
+308,Female,02-Jul-1993,31,Premium,4,"Fri, Mon, Sat, Thu",FALSE,,11:54:00,13:21:00,87,FALSE,,FALSE,,TRUE,Harrisburg
+309,Male,28-Jun-1995,29,Standard,3,"Mon, Sat, Thu",FALSE,,15:05:00,16:19:00,74,FALSE,,TRUE,Mike,TRUE,Harrisburg
+310,Male,08-Feb-1990,34,Standard,2,"Mon, Sun",TRUE,"BodyPump, Pilates, Running",19:18:00,19:53:00,35,FALSE,,TRUE,Chantal,TRUE,Harrisburg
+311,Female,20-Jul-1980,44,Standard,1,Mon,FALSE,,17:41:00,18:15:00,34,TRUE,"lemon, orange",TRUE,Chantal,FALSE,Harrisburg
+312,Male,03-Jun-2002,22,Premium,5,"Fri, Sat, Thu, Tue, Wed",TRUE,LesMiles,17:41:00,19:31:00,110,FALSE,,FALSE,,FALSE,Philadelphia
+313,Male,28-Dec-1975,48,Standard,1,Tue,TRUE,"BodyPump, HIT",19:29:00,22:21:00,172,TRUE,"passion_fruit, coconut_pineapple",FALSE,,TRUE,Philadelphia
+314,Male,06-Mar-1988,36,Standard,1,Sun,FALSE,,19:20:00,21:58:00,158,TRUE,coconut_pineapple,FALSE,,FALSE,Pittsburgh
+315,Male,29-Feb-2008,16,Premium,1,Tue,TRUE,"XCore, Spinning, BodyPump",8:38:00,10:25:00,107,FALSE,,TRUE,Mike,TRUE,Pittsburgh
+316,Male,28-Dec-2009,14,Standard,3,"Fri, Tue, Wed",FALSE,,20:52:00,22:02:00,70,TRUE,"coconut_pineapple, lemon",TRUE,Chantal,TRUE,Allentown
+317,Male,27-Sep-1988,36,Premium,3,"Mon, Sat, Thu",FALSE,,11:06:00,11:44:00,38,TRUE,berry_boost,TRUE,Chantal,FALSE,Allentown
+318,Male,18-May-1984,40,Premium,2,"Sun, Thu",FALSE,,11:37:00,14:23:00,166,FALSE,,TRUE,Chantal,TRUE,Harrisburg
+319,Male,01-Jun-1992,32,Premium,3,"Sat, Sun, Wed",FALSE,,10:38:00,13:05:00,147,TRUE,"lemon, black_currant",FALSE,,FALSE,Philadelphia
+320,Female,23-Jan-2012,12,Standard,5,"Mon, Sat, Sun, Thu, Wed",TRUE,"HIT, Zumba",9:36:00,12:09:00,153,TRUE,"lemon, berry_boost",TRUE,Chantal,TRUE,Pittsburgh
+321,Male,22-Apr-1998,26,Premium,3,"Sat, Thu, Tue",FALSE,,14:11:00,15:11:00,60,TRUE,"passion_fruit, coconut_pineapple",FALSE,,FALSE,Allentown
+322,Male,03-Nov-2000,23,Standard,2,"Fri, Sat",FALSE,,20:18:00,20:55:00,37,FALSE,,TRUE,Chantal,FALSE,Pittsburgh
+323,Male,19-Jun-1998,26,Premium,5,"Mon, Sat, Sun, Thu, Wed",TRUE,Running,17:11:00,18:02:00,51,FALSE,,TRUE,Chantal,TRUE,Harrisburg
+325,Male,19-Feb-1995,29,Standard,3,"Fri, Sat, Wed",FALSE,,10:34:00,11:13:00,39,FALSE,,FALSE,,TRUE,Pittsburgh
+326,Female,03-Jul-1977,47,Standard,3,"Mon, Sun, Tue",FALSE,,18:24:00,19:13:00,49,TRUE,"coconut_pineapple, lemon",FALSE,,FALSE,Allentown
+327,Female,21-Sep-2011,13,Standard,3,"Mon, Sun, Thu",FALSE,,14:01:00,16:23:00,142,TRUE,passion_fruit,FALSE,,TRUE,Harrisburg
+328,Female,30-Sep-2002,22,Standard,5,"Fri, Mon, Sun, Tue, Wed",FALSE,,13:52:00,14:43:00,51,FALSE,,FALSE,,TRUE,Allentown
+330,Female,13-Aug-1997,27,Standard,2,"Sat, Thu",FALSE,,11:43:00,14:26:00,163,TRUE,passion_fruit,FALSE,,TRUE,Pittsburgh
+331,Female,06-Aug-1989,35,Premium,2,"Mon, Wed",TRUE,"Kickboxen, LesMiles",16:36:00,17:42:00,66,TRUE,passion_fruit,FALSE,,FALSE,Harrisburg
+332,Female,22-Feb-2003,21,Premium,3,"Fri, Sat, Wed",TRUE,XCore,20:22:00,21:59:00,97,TRUE,passion_fruit,FALSE,,TRUE,Pittsburgh
+333,Male,13-Jun-1984,40,Premium,3,"Fri, Sun, Tue",FALSE,,11:18:00,14:09:00,171,FALSE,,TRUE,Hanna,TRUE,Philadelphia
+334,Male,02-Jul-2009,15,Standard,3,"Mon, Sat, Sun",FALSE,,17:29:00,18:03:00,34,FALSE,,FALSE,,TRUE,Philadelphia
+335,Female,21-Nov-2000,23,Premium,3,"Mon, Sat, Sun",FALSE,,13:42:00,14:33:00,51,FALSE,,FALSE,,TRUE,Allentown
+336,Female,02-Mar-1975,49,Standard,1,Wed,TRUE,"Running, Zumba, LesMiles",10:40:00,11:24:00,44,FALSE,,TRUE,Chantal,FALSE,Pittsburgh
+339,Female,04-Sep-1983,41,Standard,3,"Sun, Thu, Wed",TRUE,"XCore, Pilates, HIT",15:40:00,17:21:00,101,TRUE,"passion_fruit, orange",TRUE,Chantal,FALSE,Allentown
+341,Female,16-May-1988,36,Standard,4,"Fri, Mon, Thu, Wed",FALSE,,14:02:00,16:28:00,146,FALSE,,FALSE,,TRUE,Pittsburgh
+342,Male,11-Aug-1998,26,Standard,5,"Fri, Sat, Sun, Tue, Wed",TRUE,HIT,17:57:00,19:05:00,68,TRUE,coconut_pineapple,TRUE,Jeffrey,TRUE,Harrisburg
+343,Female,07-Oct-2005,19,Premium,5,"Fri, Sat, Thu, Tue, Wed",TRUE,"Running, HIT, Kickboxen",9:53:00,12:49:00,176,FALSE,,TRUE,Mike,TRUE,Allentown
+344,Female,10-Oct-1986,38,Standard,4,"Fri, Mon, Sun, Thu",TRUE,HIT,12:50:00,14:19:00,89,FALSE,,FALSE,,TRUE,Allentown
+345,Male,18-Aug-1985,39,Standard,2,"Mon, Sat",FALSE,,14:30:00,16:14:00,104,FALSE,,TRUE,Mike,FALSE,Philadelphia
+346,Female,18-Jul-1981,43,Premium,3,"Mon, Sat, Thu",TRUE,"Kickboxen, LesMiles",12:17:00,15:09:00,172,FALSE,,FALSE,,FALSE,Pittsburgh
+347,Female,08-Oct-1985,39,Standard,3,"Mon, Tue, Wed",FALSE,,16:51:00,18:36:00,105,FALSE,,FALSE,,TRUE,Philadelphia
+348,Male,02-Jul-2003,21,Standard,3,"Sat, Sun, Tue",FALSE,,12:59:00,13:48:00,49,TRUE,"orange, berry_boost",FALSE,,FALSE,Allentown
+349,Female,18-Jun-1985,39,Standard,2,"Sun, Thu",FALSE,,12:53:00,14:54:00,121,FALSE,,TRUE,Jeffrey,FALSE,Philadelphia
+350,Female,21-Nov-1988,35,Standard,2,"Fri, Mon",TRUE,"Pilates, XCore",16:20:00,17:21:00,61,TRUE,passion_fruit,TRUE,Jeffrey,FALSE,Pittsburgh
+351,Male,30-Oct-1988,35,Standard,1,Fri,TRUE,"BodyBalance, LesMiles",19:27:00,22:03:00,156,FALSE,,FALSE,,FALSE,Philadelphia
+352,Female,02-Mar-1993,31,Standard,1,Wed,TRUE,"Spinning, Running",9:42:00,12:25:00,163,FALSE,,FALSE,,FALSE,Pittsburgh
+353,Female,31-May-2009,15,Premium,2,"Fri, Mon",FALSE,,13:37:00,14:50:00,73,TRUE,berry_boost,TRUE,Mike,TRUE,Philadelphia
+354,Female,05-Jun-1980,44,Premium,2,"Fri, Mon",TRUE,BodyBalance,17:13:00,18:15:00,62,FALSE,,FALSE,,TRUE,Allentown
+355,Male,13-Feb-1987,37,Standard,1,Mon,TRUE,"BodyBalance, Running",16:45:00,18:58:00,133,FALSE,,FALSE,,FALSE,Philadelphia
+356,Male,13-May-1992,32,Standard,1,Sat,TRUE,"Pilates, XCore",18:44:00,19:28:00,44,FALSE,,FALSE,,TRUE,Pittsburgh
+357,Female,16-Sep-2007,17,Standard,2,"Fri, Sun",TRUE,LesMiles,20:55:00,22:18:00,83,TRUE,"lemon, orange",FALSE,,FALSE,Allentown
+358,Female,27-Jul-1987,37,Standard,1,Tue,TRUE,XCore,18:06:00,19:59:00,113,FALSE,,FALSE,,FALSE,Philadelphia
+359,Female,05-Feb-1999,25,Standard,3,"Fri, Sun, Tue",FALSE,,15:21:00,16:26:00,65,FALSE,,TRUE,Hanna,FALSE,Pittsburgh
+360,Female,02-May-1992,32,Standard,2,"Sat, Wed",TRUE,"LesMiles, BodyPump, Kickboxen",17:04:00,19:46:00,162,FALSE,,TRUE,Jeffrey,FALSE,Allentown
+361,Female,14-May-1980,44,Standard,5,"Fri, Sun, Thu, Tue, Wed",TRUE,Running,20:04:00,22:29:00,145,FALSE,,TRUE,Mike,TRUE,Philadelphia
+362,Female,28-Jun-1987,37,Premium,4,"Fri, Mon, Thu, Tue",TRUE,"Pilates, Zumba, Kickboxen",11:51:00,13:57:00,126,TRUE,"passion_fruit, lemon",FALSE,,FALSE,Allentown
+363,Male,25-Feb-2007,17,Standard,1,Tue,TRUE,"Running, Zumba",12:17:00,15:14:00,177,TRUE,"lemon, berry_boost",TRUE,Chantal,FALSE,Harrisburg
+364,Female,27-Jun-1990,34,Standard,3,"Sat, Thu, Wed",TRUE,"Spinning, BodyBalance, Yoga",10:47:00,12:03:00,76,FALSE,,TRUE,Chantal,TRUE,Allentown
+365,Female,24-Sep-2003,21,Premium,2,"Mon, Wed",TRUE,"Kickboxen, HIT, Spinning",18:40:00,21:21:00,161,TRUE,passion_fruit,TRUE,Hanna,TRUE,Pittsburgh
+366,Male,04-Jun-1980,44,Standard,3,"Fri, Mon, Tue",FALSE,,10:31:00,12:28:00,117,TRUE,coconut_pineapple,TRUE,Chantal,FALSE,Harrisburg
+367,Female,26-Feb-1996,28,Standard,2,"Thu, Tue",TRUE,"XCore, Yoga",20:22:00,22:56:00,154,TRUE,"lemon, black_currant",FALSE,,FALSE,Allentown
+368,Male,09-Jul-2001,23,Premium,1,Sun,TRUE,BodyBalance,20:41:00,23:00:00,139,FALSE,,TRUE,Chantal,FALSE,Allentown
+369,Male,09-May-1995,29,Premium,1,Mon,TRUE,HIT,17:22:00,18:42:00,80,TRUE,black_currant,TRUE,Jeffrey,TRUE,Philadelphia
+370,Female,05-Jan-1996,28,Premium,1,Tue,TRUE,"Spinning, LesMiles, Yoga",13:08:00,14:35:00,87,TRUE,black_currant,TRUE,Hanna,TRUE,Philadelphia
+371,Male,25-May-2003,21,Premium,2,"Mon, Wed",FALSE,,20:10:00,21:56:00,106,FALSE,,FALSE,,TRUE,Allentown
+372,Female,10-Oct-1978,46,Premium,5,"Fri, Sun, Thu, Tue, Wed",TRUE,"Running, BodyPump",11:18:00,14:06:00,168,TRUE,"coconut_pineapple, black_currant",TRUE,Jeffrey,TRUE,Allentown
+373,Female,26-Aug-1991,33,Premium,2,"Sat, Sun",TRUE,"BodyBalance, Pilates, LesMiles",8:52:00,11:07:00,135,FALSE,,FALSE,,TRUE,Pittsburgh
+374,Female,16-Dec-1984,39,Premium,2,"Sun, Tue",TRUE,"HIT, Pilates",17:43:00,18:36:00,53,FALSE,,TRUE,Chantal,TRUE,Allentown
+375,Male,14-Dec-1998,25,Premium,2,"Fri, Mon",FALSE,,16:54:00,18:20:00,86,FALSE,,TRUE,Mike,FALSE,Philadelphia
+376,Female,29-Jul-1995,29,Premium,3,"Sat, Sun, Thu",TRUE,"BodyPump, LesMiles",20:16:00,23:04:00,168,TRUE,"berry_boost, orange",FALSE,,FALSE,Philadelphia
+377,Male,13-Oct-1990,34,Premium,3,"Fri, Tue, Wed",FALSE,,14:36:00,15:56:00,80,FALSE,,TRUE,Mike,FALSE,Harrisburg
+378,Male,22-Aug-1984,40,Premium,2,"Sat, Thu",TRUE,Running,18:52:00,19:42:00,50,TRUE,lemon,FALSE,,TRUE,Harrisburg
+379,Female,07-Mar-2010,14,Premium,3,"Sun, Thu, Tue",FALSE,,8:29:00,10:35:00,126,FALSE,,FALSE,,FALSE,Pittsburgh
+380,Male,02-Jun-1981,43,Standard,1,Wed,FALSE,,19:38:00,20:56:00,78,TRUE,berry_boost,FALSE,,FALSE,Harrisburg
+381,Male,25-Jul-1998,26,Premium,5,"Fri, Mon, Sun, Tue, Wed",FALSE,,18:01:00,18:43:00,42,TRUE,"lemon, coconut_pineapple",FALSE,,FALSE,Philadelphia
+382,Male,06-Dec-1978,45,Premium,2,"Mon, Wed",TRUE,"HIT, Spinning",14:20:00,17:20:00,180,TRUE,black_currant,TRUE,Hanna,TRUE,Pittsburgh
+383,Female,28-Aug-1998,26,Standard,2,"Sat, Thu",FALSE,,20:26:00,21:25:00,59,FALSE,,TRUE,Chantal,TRUE,Harrisburg
+384,Female,12-Jun-1998,26,Premium,3,"Sat, Thu, Tue",TRUE,"BodyBalance, Pilates, Kickboxen",17:35:00,18:31:00,56,TRUE,"coconut_pineapple, black_currant",FALSE,,TRUE,Pittsburgh
+385,Female,12-Jan-2008,16,Premium,3,"Sun, Thu, Wed",TRUE,"LesMiles, HIT, Pilates",12:45:00,14:42:00,117,TRUE,"orange, lemon",TRUE,Hanna,FALSE,Allentown
+386,Male,09-Jun-1975,49,Premium,1,Fri,TRUE,"Kickboxen, BodyBalance",13:06:00,14:29:00,83,FALSE,,TRUE,Hanna,TRUE,Philadelphia
+387,Male,03-Sep-1998,26,Premium,2,"Tue, Wed",TRUE,XCore,19:08:00,21:19:00,131,TRUE,black_currant,TRUE,Jeffrey,TRUE,Allentown
+388,Male,17-Mar-2005,19,Standard,2,"Fri, Sat",TRUE,"LesMiles, Kickboxen",20:23:00,21:49:00,86,FALSE,,TRUE,Jeffrey,FALSE,Pittsburgh
+389,Female,11-Jun-1990,34,Premium,1,Thu,TRUE,"Spinning, BodyBalance",17:57:00,19:46:00,109,FALSE,,TRUE,Chantal,TRUE,Pittsburgh
+390,Female,12-Sep-2012,12,Standard,3,"Mon, Sat, Tue",FALSE,,8:59:00,10:26:00,87,FALSE,,TRUE,Hanna,FALSE,Allentown
+391,Female,06-Feb-1998,26,Standard,5,"Fri, Mon, Sat, Thu, Tue",FALSE,,13:34:00,15:19:00,105,TRUE,"passion_fruit, berry_boost",FALSE,,TRUE,Philadelphia
+392,Female,18-May-1985,39,Standard,2,"Thu, Wed",TRUE,"Spinning, Yoga",8:25:00,10:10:00,105,FALSE,,TRUE,Jeffrey,FALSE,Allentown
+393,Female,28-Aug-1983,41,Standard,4,"Mon, Sun, Tue, Wed",TRUE,"XCore, Spinning",10:09:00,10:57:00,48,TRUE,"coconut_pineapple, passion_fruit",FALSE,,FALSE,Pittsburgh
+394,Female,14-May-2007,17,Premium,2,"Fri, Tue",FALSE,,9:30:00,12:24:00,174,TRUE,black_currant,TRUE,Hanna,TRUE,Allentown
+395,Female,27-Oct-1995,28,Standard,3,"Sat, Thu, Wed",FALSE,,19:59:00,20:40:00,41,FALSE,,TRUE,Chantal,FALSE,Harrisburg
+396,Female,13-Nov-1986,37,Premium,3,"Sat, Sun, Wed",FALSE,,13:08:00,13:56:00,48,FALSE,,FALSE,,TRUE,Philadelphia
+397,Female,18-Jun-1991,33,Standard,3,"Fri, Sat, Sun",FALSE,,8:47:00,9:52:00,65,FALSE,,FALSE,,TRUE,Pittsburgh
+398,Female,28-Jun-1979,45,Premium,2,"Mon, Thu",TRUE,"LesMiles, Yoga, Zumba",10:37:00,13:10:00,153,TRUE,"coconut_pineapple, lemon",TRUE,Hanna,TRUE,Philadelphia
+399,Male,09-Mar-2007,17,Premium,2,"Fri, Sat",FALSE,,8:38:00,11:24:00,166,FALSE,,TRUE,Mike,TRUE,Pittsburgh
+400,Male,14-Nov-1994,29,Standard,3,"Fri, Sat, Thu",TRUE,Kickboxen,13:02:00,14:08:00,66,FALSE,,FALSE,,TRUE,Allentown
+401,Female,11-Oct-2004,20,Premium,1,Wed,FALSE,,17:52:00,18:49:00,57,TRUE,black_currant,TRUE,Hanna,TRUE,Pittsburgh
+402,Female,21-Jun-2007,17,Premium,2,"Fri, Thu",TRUE,"LesMiles, Pilates, Yoga",16:58:00,19:40:00,162,TRUE,orange,FALSE,,TRUE,Allentown
+403,Female,04-Dec-2007,16,Premium,3,"Sat, Sun, Tue",FALSE,,15:15:00,15:46:00,31,TRUE,passion_fruit,TRUE,Chantal,FALSE,Pittsburgh
+404,Female,09-Aug-2009,15,Premium,3,"Fri, Sat, Wed",TRUE,"Kickboxen, Zumba",11:02:00,11:38:00,36,TRUE,"berry_boost, black_currant",TRUE,Chantal,TRUE,Harrisburg
+405,Male,05-Apr-1997,27,Premium,2,"Mon, Sun",TRUE,"LesMiles, Yoga, Spinning",16:35:00,18:56:00,141,TRUE,lemon,TRUE,Jeffrey,FALSE,Harrisburg
+407,Female,28-Sep-2002,22,Standard,3,"Sat, Thu, Tue",TRUE,"LesMiles, Pilates",17:29:00,19:06:00,97,TRUE,"lemon, black_currant",FALSE,,FALSE,Harrisburg
+409,Female,19-Dec-2004,19,Standard,3,"Sun, Thu, Wed",FALSE,,18:07:00,20:51:00,164,FALSE,,TRUE,Jeffrey,TRUE,Harrisburg
+411,Female,27-Aug-1980,44,Standard,2,"Tue, Wed",FALSE,,11:53:00,12:48:00,55,FALSE,,FALSE,,FALSE,Allentown
+412,Male,09-Dec-1984,39,Standard,2,"Sun, Tue",TRUE,"LesMiles, BodyPump",19:02:00,19:47:00,45,TRUE,berry_boost,TRUE,Chantal,FALSE,Pittsburgh
+414,Female,01-Jan-1995,29,Standard,1,Sun,TRUE,BodyPump,12:26:00,13:45:00,79,FALSE,,FALSE,,FALSE,Pittsburgh
+415,Female,26-Dec-1994,29,Premium,1,Sat,FALSE,,16:54:00,18:15:00,81,FALSE,,TRUE,Chantal,TRUE,Allentown
+416,Male,12-Jan-1988,36,Premium,3,"Sat, Sun, Wed",TRUE,LesMiles,19:37:00,20:38:00,61,FALSE,,FALSE,,TRUE,Pittsburgh
+417,Female,02-Nov-2007,16,Standard,3,"Fri, Sun, Wed",TRUE,"Kickboxen, Pilates",14:53:00,17:02:00,129,TRUE,coconut_pineapple,FALSE,,TRUE,Allentown
+418,Female,25-Sep-1975,49,Premium,3,"Mon, Sun, Wed",FALSE,,19:37:00,21:31:00,114,TRUE,"berry_boost, coconut_pineapple",FALSE,,FALSE,Allentown
+419,Female,26-Nov-2004,19,Premium,3,"Sat, Tue, Wed",TRUE,"Kickboxen, Spinning, HIT",10:33:00,11:32:00,59,FALSE,,FALSE,,FALSE,Pittsburgh
+422,Female,21-May-1990,34,Standard,4,"Fri, Thu, Tue, Wed",FALSE,,12:46:00,13:55:00,69,FALSE,,FALSE,,FALSE,Pittsburgh
+423,Female,18-Apr-1987,37,Premium,5,"Fri, Mon, Sat, Sun, Thu",TRUE,XCore,18:48:00,21:03:00,135,FALSE,,TRUE,Chantal,TRUE,Pittsburgh
+424,Female,02-Apr-2002,22,Premium,1,Sun,TRUE,"Pilates, LesMiles, Spinning",12:27:00,14:03:00,96,TRUE,coconut_pineapple,FALSE,,TRUE,Allentown
+425,Male,03-May-1983,41,Premium,5,"Mon, Sat, Sun, Tue, Wed",FALSE,,16:21:00,18:38:00,137,FALSE,,TRUE,Chantal,FALSE,Philadelphia
+426,Female,09-Jul-1985,39,Premium,2,"Fri, Sat",FALSE,,20:04:00,20:43:00,39,FALSE,,FALSE,,FALSE,Allentown
+427,Male,02-May-2010,14,Premium,3,"Fri, Mon, Sun",FALSE,,16:05:00,19:05:00,180,TRUE,black_currant,TRUE,Mike,FALSE,Allentown
+428,Female,22-Jul-2008,16,Standard,3,"Sat, Sun, Wed",TRUE,"Pilates, BodyBalance, Spinning",14:06:00,16:15:00,129,TRUE,berry_boost,FALSE,,FALSE,Harrisburg
+429,Male,19-Apr-1993,31,Standard,2,"Sun, Thu",TRUE,"Yoga, Pilates, BodyPump",17:57:00,19:22:00,85,TRUE,"lemon, passion_fruit",TRUE,Jeffrey,TRUE,Philadelphia
+430,Female,06-Dec-1998,25,Standard,2,"Mon, Thu",FALSE,,15:12:00,15:57:00,45,TRUE,coconut_pineapple,TRUE,Chantal,FALSE,Pittsburgh
+431,Male,16-Jul-1993,31,Premium,2,"Sun, Tue",TRUE,"Zumba, Yoga, Spinning",16:01:00,18:11:00,130,TRUE,"black_currant, orange",FALSE,,TRUE,Pittsburgh
+432,Male,10-Jan-1994,30,Standard,5,"Fri, Mon, Sun, Tue, Wed",TRUE,"Yoga, Spinning",10:56:00,13:40:00,164,FALSE,,TRUE,Jeffrey,TRUE,Pittsburgh
+433,Female,28-Jan-1977,47,Premium,3,"Sat, Sun, Thu",FALSE,,14:51:00,17:38:00,167,TRUE,orange,FALSE,,TRUE,Allentown
+434,Female,29-Apr-1995,29,Standard,5,"Mon, Sat, Sun, Thu, Tue",FALSE,,18:14:00,21:04:00,170,FALSE,,FALSE,,FALSE,Philadelphia
+435,Female,20-Apr-1981,43,Standard,1,Sat,TRUE,Yoga,14:44:00,16:44:00,120,TRUE,"passion_fruit, berry_boost",TRUE,Chantal,TRUE,Allentown
+436,Male,02-May-2001,23,Standard,1,Sun,FALSE,,11:28:00,13:04:00,96,FALSE,,TRUE,Mike,FALSE,Allentown
+438,Male,22-Feb-1990,34,Premium,2,"Tue, Wed",FALSE,,17:18:00,18:57:00,99,TRUE,passion_fruit,TRUE,Mike,FALSE,Harrisburg
+440,Male,27-Sep-1987,37,Premium,1,Sat,TRUE,Running,13:10:00,16:02:00,172,FALSE,,FALSE,,TRUE,Allentown
+441,Female,24-Mar-1986,38,Standard,3,"Thu, Tue, Wed",TRUE,Spinning,16:41:00,17:48:00,67,TRUE,"lemon, berry_boost",FALSE,,TRUE,Allentown
+442,Female,17-May-1994,30,Standard,1,Sat,FALSE,,14:08:00,17:08:00,180,FALSE,,TRUE,Hanna,FALSE,Harrisburg
+443,Female,11-Nov-1998,25,Standard,2,"Mon, Tue",TRUE,"Running, Spinning",13:59:00,15:29:00,90,FALSE,,TRUE,Jeffrey,TRUE,Philadelphia
+444,Male,23-Feb-1975,49,Standard,2,"Mon, Sun",FALSE,,18:40:00,20:46:00,126,FALSE,,TRUE,Hanna,TRUE,Harrisburg
+445,Female,11-Apr-1989,35,Premium,1,Tue,FALSE,,12:12:00,14:48:00,156,TRUE,black_currant,FALSE,,FALSE,Harrisburg
+446,Female,05-Dec-1982,41,Standard,2,"Sun, Tue",TRUE,"HIT, BodyBalance",14:06:00,16:06:00,120,TRUE,"orange, berry_boost",TRUE,Jeffrey,TRUE,Pittsburgh
+447,Male,09-Apr-1991,33,Premium,3,"Mon, Thu, Tue",FALSE,,9:14:00,10:31:00,77,TRUE,"orange, lemon",FALSE,,TRUE,Allentown
+448,Female,13-Jul-1997,27,Premium,2,"Fri, Tue",FALSE,,17:22:00,19:32:00,130,TRUE,"passion_fruit, black_currant",FALSE,,FALSE,Pittsburgh
+449,Female,23-Jul-2006,18,Standard,3,"Fri, Thu, Wed",TRUE,"BodyBalance, Pilates, HIT",18:43:00,21:06:00,143,TRUE,passion_fruit,FALSE,,TRUE,Pittsburgh
+450,Male,24-Jun-2006,18,Premium,4,"Fri, Sat, Sun, Tue",TRUE,Running,19:08:00,21:32:00,144,TRUE,black_currant,FALSE,,FALSE,Philadelphia
+451,Female,09-Apr-1994,30,Premium,4,"Fri, Sat, Sun, Wed",TRUE,"BodyPump, Pilates, Yoga",14:27:00,16:09:00,102,FALSE,,TRUE,Jeffrey,FALSE,Philadelphia
+452,Female,16-Jun-1985,39,Standard,4,"Sat, Sun, Thu, Tue",TRUE,"Spinning, HIT",16:21:00,17:34:00,73,TRUE,"lemon, black_currant",TRUE,Jeffrey,FALSE,Harrisburg
+453,Female,25-Mar-1994,30,Standard,3,"Sat, Sun, Wed",TRUE,"Yoga, Spinning",18:36:00,20:33:00,117,TRUE,orange,TRUE,Jeffrey,FALSE,Philadelphia
+454,Female,10-Jan-1999,25,Premium,4,"Mon, Sun, Tue, Wed",TRUE,Running,18:14:00,19:59:00,105,FALSE,,TRUE,Chantal,TRUE,Pittsburgh
+455,Female,19-May-2008,16,Standard,1,Mon,TRUE,"BodyBalance, Pilates, Yoga",20:02:00,22:37:00,155,FALSE,,TRUE,Mike,FALSE,Allentown
+456,Male,26-Dec-1993,30,Standard,3,"Sat, Thu, Wed",TRUE,Yoga,14:55:00,16:01:00,66,FALSE,,TRUE,Chantal,TRUE,Allentown
+457,Female,19-Mar-1983,41,Premium,1,Wed,FALSE,,16:21:00,18:39:00,138,TRUE,berry_boost,TRUE,Hanna,FALSE,Pittsburgh
+458,Female,14-Feb-1986,38,Standard,3,"Mon, Sun, Tue",TRUE,Pilates,11:37:00,12:57:00,80,TRUE,"orange, black_currant",TRUE,Jeffrey,TRUE,Philadelphia
+459,Male,02-Mar-1978,46,Standard,3,"Sat, Thu, Tue",FALSE,,18:28:00,19:40:00,72,FALSE,,TRUE,Jeffrey,FALSE,Pittsburgh
+460,Female,20-Dec-1995,28,Premium,4,"Mon, Sat, Thu, Wed",FALSE,,9:22:00,10:57:00,95,FALSE,,TRUE,Jeffrey,FALSE,Philadelphia
+461,Male,23-Jun-2009,15,Premium,2,"Mon, Thu",TRUE,"XCore, Yoga",19:07:00,22:02:00,175,TRUE,"black_currant, orange",FALSE,,TRUE,Allentown
+462,Male,01-Jun-1999,25,Premium,2,"Thu, Tue",FALSE,,10:55:00,13:51:00,176,TRUE,lemon,FALSE,,TRUE,Pittsburgh
+463,Female,22-Apr-2006,18,Standard,2,"Fri, Tue",FALSE,,18:15:00,20:59:00,164,FALSE,,FALSE,,FALSE,Harrisburg
+464,Female,20-Sep-1986,38,Premium,4,"Fri, Mon, Thu, Wed",TRUE,"BodyPump, LesMiles, HIT",20:54:00,22:41:00,107,FALSE,,TRUE,Hanna,TRUE,Allentown
+465,Female,29-Oct-2001,22,Standard,4,"Fri, Sat, Thu, Tue",FALSE,,14:33:00,15:48:00,75,TRUE,orange,FALSE,,TRUE,Pittsburgh
+466,Female,13-Jan-1980,44,Premium,3,"Mon, Sat, Thu",FALSE,,17:47:00,18:30:00,43,TRUE,berry_boost,TRUE,Jeffrey,TRUE,Philadelphia
+467,Male,27-Jan-2010,14,Premium,5,"Sat, Sun, Thu, Tue, Wed",TRUE,"BodyBalance, Zumba",8:25:00,10:08:00,103,FALSE,,TRUE,Mike,TRUE,Allentown
+468,Female,28-Jan-1983,41,Premium,3,"Fri, Sat, Sun",FALSE,,9:56:00,11:39:00,103,FALSE,,TRUE,Chantal,TRUE,Allentown
+469,Male,21-Jun-1990,34,Premium,2,"Sat, Thu",TRUE,LesMiles,13:39:00,14:34:00,55,FALSE,,TRUE,Jeffrey,FALSE,Harrisburg
+470,Male,07-Oct-1998,26,Premium,1,Fri,TRUE,Pilates,12:45:00,14:09:00,84,TRUE,"black_currant, orange",TRUE,Chantal,TRUE,Harrisburg
+471,Female,23-Apr-1976,48,Standard,1,Fri,FALSE,,10:42:00,11:57:00,75,TRUE,lemon,TRUE,Chantal,TRUE,Pittsburgh
+472,Male,02-Jan-1979,45,Standard,1,Mon,TRUE,"Running, LesMiles",9:31:00,10:42:00,71,TRUE,"orange, lemon",FALSE,,TRUE,Allentown
+473,Male,18-Nov-2003,20,Standard,4,"Mon, Sat, Tue, Wed",TRUE,"Running, HIT",9:46:00,11:55:00,129,FALSE,,TRUE,Mike,FALSE,Harrisburg
+474,Male,03-Aug-1991,33,Standard,3,"Sat, Sun, Wed",TRUE,"BodyBalance, Kickboxen, HIT",16:59:00,18:31:00,92,TRUE,orange,TRUE,Jeffrey,FALSE,Harrisburg
+475,Male,04-Apr-2001,23,Standard,2,"Sat, Thu",FALSE,,11:56:00,13:42:00,106,FALSE,,TRUE,Jeffrey,TRUE,Allentown
+476,Male,09-Jul-2001,23,Standard,2,"Tue, Wed",TRUE,"XCore, Kickboxen",17:37:00,19:57:00,140,TRUE,orange,TRUE,Mike,TRUE,Pittsburgh
+477,Female,09-Mar-2002,22,Premium,1,Thu,FALSE,,9:43:00,10:37:00,54,TRUE,berry_boost,FALSE,,FALSE,Pittsburgh
+478,Female,31-Oct-1980,43,Standard,3,"Fri, Mon, Tue",FALSE,,11:56:00,12:35:00,39,FALSE,,TRUE,Mike,TRUE,Philadelphia
+479,Male,23-Mar-2010,14,Premium,2,"Sun, Tue",FALSE,,12:23:00,14:44:00,141,TRUE,berry_boost,TRUE,Chantal,TRUE,Philadelphia
+480,Male,25-Jul-2000,24,Premium,2,"Sat, Tue",TRUE,"Zumba, LesMiles, Spinning",11:46:00,14:43:00,177,FALSE,,FALSE,,TRUE,Allentown
+481,Female,26-Mar-1979,45,Standard,1,Sun,FALSE,,20:40:00,23:14:00,154,TRUE,berry_boost,FALSE,,FALSE,Allentown
+482,Male,27-Jul-2005,19,Premium,2,"Fri, Tue",TRUE,LesMiles,12:50:00,14:56:00,126,TRUE,passion_fruit,FALSE,,FALSE,Philadelphia
+483,Female,17-Mar-1998,26,Premium,3,"Fri, Thu, Wed",TRUE,"BodyBalance, XCore",18:41:00,21:00:00,139,TRUE,"black_currant, coconut_pineapple",TRUE,Mike,TRUE,Philadelphia
+484,Male,03-May-1996,28,Standard,2,"Fri, Tue",FALSE,,14:12:00,15:26:00,74,TRUE,"passion_fruit, orange",FALSE,,FALSE,Philadelphia
+485,Male,31-Mar-1979,45,Standard,1,Mon,TRUE,Yoga,18:07:00,19:42:00,95,FALSE,,FALSE,,FALSE,Allentown
+486,Male,16-Sep-1975,49,Standard,3,"Sun, Tue, Wed",TRUE,Pilates,17:10:00,18:03:00,53,TRUE,"orange, coconut_pineapple",TRUE,Mike,TRUE,Pittsburgh
+487,Female,22-Feb-1998,26,Standard,2,"Sat, Wed",TRUE,"BodyBalance, LesMiles, BodyPump",15:44:00,18:17:00,153,FALSE,,TRUE,Chantal,TRUE,Pittsburgh
+488,Male,25-Apr-1981,43,Premium,5,"Fri, Mon, Sat, Thu, Wed",FALSE,,17:52:00,20:52:00,180,FALSE,,TRUE,Mike,FALSE,Harrisburg
+489,Male,08-Oct-1991,33,Premium,2,"Sun, Tue",FALSE,,12:42:00,15:01:00,139,TRUE,berry_boost,TRUE,Mike,FALSE,Allentown
+490,Female,14-Jun-1996,28,Standard,3,"Fri, Sun, Tue",FALSE,,9:55:00,10:55:00,60,FALSE,,TRUE,Chantal,FALSE,Harrisburg
+491,Female,18-Jul-1975,49,Premium,1,Fri,TRUE,Running,8:06:00,10:41:00,155,FALSE,,TRUE,Jeffrey,FALSE,Philadelphia
+492,Male,19-Nov-2007,16,Standard,2,"Fri, Thu",FALSE,,11:43:00,12:52:00,69,FALSE,,FALSE,,TRUE,Allentown
+18,Female,30-Apr-2011,13,Standard,3,"Sat, Thu, Tue",FALSE,,16:54:00,18:53:00,119,FALSE,,TRUE,Mike,TRUE,Harrisburg
+32,Male,02-Mar-2000,24,Standard,5,"Fri, Mon, Sat, Sun, Wed",FALSE,,20:53:00,23:33:00,160,TRUE,"black_currant, lemon",FALSE,,FALSE,Philadelphia
+97,Male,24-Mar-1995,29,Premium,3,"Fri, Sun, Wed",FALSE,,14:16:00,17:08:00,172,FALSE,,FALSE,,FALSE,Allentown
+110,Female,01-Mar-2004,20,Premium,2,"Fri, Wed",TRUE,Pilates,17:52:00,20:41:00,169,FALSE,,FALSE,,TRUE,Allentown
+117,Male,04-Apr-1975,49,Standard,1,Tue,TRUE,Pilates,18:02:00,18:44:00,42,TRUE,"berry_boost, lemon",FALSE,,FALSE,Allentown
+121,Female,30-Mar-2002,22,Premium,2,"Sun, Thu",TRUE,"BodyPump, Yoga, Pilates",19:19:00,20:52:00,93,TRUE,"lemon, black_currant",FALSE,,FALSE,Harrisburg
+238,Female,25-Jun-2003,21,Premium,5,"Fri, Mon, Sat, Sun, Thu",TRUE,"Pilates, BodyPump, BodyBalance",20:15:00,23:14:00,179,TRUE,"coconut_pineapple, passion_fruit",FALSE,,TRUE,Harrisburg
+252,Female,28-May-1992,32,Premium,5,"Fri, Mon, Thu, Tue, Wed",TRUE,"BodyBalance, Zumba",10:17:00,13:05:00,168,TRUE,berry_boost,FALSE,,FALSE,Allentown
