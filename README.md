@@ -1,3 +1,12 @@
+## Data Source
+
+The dataset used in this project was sourced from Kaggle and adapted for
+the purpose of designing a relational database system. The project scenario
+models a fictional gym called "Drexel Fitness" to demonstrate database
+design, entity relationships, and analytical SQL queries.
+
+The goal of the project is to showcase database schema design and SQL
+analysis rather than represent real operational data from Drexel University.
 # Drexel Fitness Gym Database Design
 
 Designed a relational database model for Drexel Fitness to replace spreadsheet tracking of members, memberships, trainers, branches, and visits. The system captures usage patterns such as check-in and check-out times, sauna usage, drink plans, and group lesson participation to enable reporting on class popularity and member engagement.
